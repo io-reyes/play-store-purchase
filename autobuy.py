@@ -29,16 +29,28 @@ def _parse_paid_list(paid_file):
 
 def _buy(paid_list, profile_dir):
     geckodriver = os.path.join(my_dir, 'geckodriver', 'geckodriver-linux64')
-    logging.info('Using geckodriver %s' % geckodriver)
+    logger.info('Using geckodriver %s' % geckodriver)
 
     profile = webdriver.FirefoxProfile(profile_directory=profile_dir)
-    logging.info('Using profile %s' % profile.path)
+    logger.info('Using profile %s' % profile.path)
 
     with webdriver.Firefox(executable_path=geckodriver, firefox_profile=profile) as driver:
-        driver.get('https://ipchicken.com')
-        time.sleep(3)
-        driver.get('https://play.google.com')
-        time.sleep(3)
+        for app in paid_list:
+            play_store_page = 'https://play.google.com/store/apps/details?id=%s' % app
+            logger.info('Loading %s' % play_store_page)
+            driver.get(play_store_page)
+
+            try:
+                buy_button = driver.find_element_by_xpath("//button[contains(@aria-label, 'Buy')]")
+                logger.info(buy_button)
+                buy_button.click()
+
+            except Exception as e:
+                logger.exception('Exception buying %s' % app)
+
+            finally:
+                time.sleep(2)
+
         driver.close()
 
 if __name__ == '__main__':
@@ -51,6 +63,4 @@ if __name__ == '__main__':
 
     paid_list = _parse_paid_list(args.paidlist)
     _buy(paid_list, args.profile)
-
-
 
