@@ -32,7 +32,7 @@ def _parse_paid_list(paid_file):
     logger.info('Read %d lines' % len(paid_list))
     return paid_list
 
-def _buy(paid_list, profile_dir, password, seconds_between=20):
+def _buy(paid_list, profile_dir, password, seconds_between=5):
     geckodriver = os.path.join(my_dir, 'geckodriver', 'geckodriver-linux64')
     logger.info('Using geckodriver %s' % geckodriver)
 
@@ -68,11 +68,28 @@ def _buy(paid_list, profile_dir, password, seconds_between=20):
                 password_field.send_keys(password)
                 password_field.send_keys(Keys.ENTER)
 
+                purchase_iframe_2 = WebDriverWait(driver, 20).until(expected_conditions.visibility_of_element_located((By.XPATH, "//iframe[starts-with(@src, 'https://play.google.com/store/epurchase')]")))
+                logger.info('Found the purchasing iframe again')
+                driver.switch_to.frame(purchase_iframe_2)
+
+                confirm_box = WebDriverWait(driver, 10).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+                logger.info('Found the purchase confirmation')
+
+                close_button = WebDriverWait(driver, 10).until(expected_conditions.visibility_of_element_located((By.ID, 'close-dialog-button')))
+                logger.info('Found the close purchase button')
+                close_button.click()
+
+                logger.info('Successfully purchased %s' % app)
+
                 logger.info('Sleeping for %d seconds after successful purchase' % seconds_between)
                 time.sleep(seconds_between)
 
             except Exception as e:
                 logger.exception('Exception buying %s' % app)
+
+            finally:
+                logger.info('Resetting the driver frame to default')
+                driver.switch_to.default_content()
 
         driver.close()
 
