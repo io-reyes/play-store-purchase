@@ -4,6 +4,9 @@ import os
 import time
 
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions
 
 logger = logging.getLogger(__name__)
 my_dir = os.path.dirname(os.path.realpath(__file__))
@@ -42,13 +45,22 @@ def _buy(paid_list, profile_dir):
 
             try:
                 buy_button = driver.find_element_by_xpath("//button[contains(@aria-label, 'Buy')]")
-                logger.info(buy_button)
+                logger.info('Clicking the first Buy button for %s' % app)
                 buy_button.click()
+
+                continue_button = WebDriverWait(driver, 10).until(expected_conditions.visibility_of_element_located((By.ID, 'purchase-ok-button')))
+                logger.info('Clicking the Continue button for %s' % app)
+                continue_button.click()
+
+                buy_button_2 = WebDriverWait(driver, 10).until(expected_conditions.visibility_of_element_located((By.ID, 'loonie-purchase-ok-button')))
+                logger.info('Clicking the second Buy button for %s' % app)
+                buy_button_2.click()
 
             except Exception as e:
                 logger.exception('Exception buying %s' % app)
 
             finally:
+                logger.info('Sleeping for 2 seconds between pages')
                 time.sleep(2)
 
         driver.close()
