@@ -32,7 +32,7 @@ def _parse_paid_list(paid_file):
     logger.info('Read %d lines' % len(paid_list))
     return paid_list
 
-def _buy(paid_list, profile_dir, password, seconds_between=5):
+def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30):
     geckodriver = os.path.join(my_dir, 'geckodriver', 'geckodriver-linux64')
     logger.info('Using geckodriver %s' % geckodriver)
 
@@ -45,51 +45,61 @@ def _buy(paid_list, profile_dir, password, seconds_between=5):
             logger.info('Loading %s' % play_store_page)
             driver.get(play_store_page)
 
+            is_purchased = False
             try:
-                buy_button = driver.find_element_by_xpath("//button[contains(@aria-label, 'Buy')]")
-                logger.info('Clicking the first Buy button for %s' % app)
-                buy_button.click()
-
-                purchase_iframe = WebDriverWait(driver, 10).until(expected_conditions.visibility_of_element_located((By.XPATH, "//iframe[starts-with(@src, 'https://play.google.com/store/epurchase')]")))
-                logger.info('Found the purchasing iframe')
-                driver.switch_to.frame(purchase_iframe)
-
-                continue_button = WebDriverWait(driver, 10).until(expected_conditions.visibility_of_element_located((By.ID, 'purchase-ok-button')))
-                logger.info('Clicking the Continue button for %s' % app)
-                continue_button.click()
-
-                buy_button_2 = WebDriverWait(driver, 10).until(expected_conditions.visibility_of_element_located((By.ID, 'loonie-purchase-ok-button')))
-                logger.info('Clicking the second Buy button for %s' % app)
-                buy_button_2.click()
-
-                driver.switch_to.default_content()
-                password_field = WebDriverWait(driver, 10).until(expected_conditions.visibility_of_element_located((By.XPATH, "//input[@type='password' and @aria-label='Enter your password']"))) 
-                logger.info('Entering the password')
-                password_field.send_keys(password)
-                password_field.send_keys(Keys.ENTER)
-
-                purchase_iframe_2 = WebDriverWait(driver, 20).until(expected_conditions.visibility_of_element_located((By.XPATH, "//iframe[starts-with(@src, 'https://play.google.com/store/epurchase')]")))
-                logger.info('Found the purchasing iframe again')
-                driver.switch_to.frame(purchase_iframe_2)
-
-                confirm_box = WebDriverWait(driver, 10).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
-                logger.info('Found the purchase confirmation')
-
-                close_button = WebDriverWait(driver, 10).until(expected_conditions.visibility_of_element_located((By.ID, 'close-dialog-button')))
-                logger.info('Found the close purchase button')
-                close_button.click()
-
-                logger.info('Successfully purchased %s' % app)
-
-                logger.info('Sleeping for %d seconds after successful purchase' % seconds_between)
-                time.sleep(seconds_between)
-
+                buy_button = driver.find_element_by_xpath("//button[contains(@data-item-id, '%s') and contains(text(), 'Installed')]" % app)
+                is_purchased = True
             except Exception as e:
-                logger.exception('Exception buying %s' % app)
+                is_purchased = False
 
-            finally:
-                logger.info('Resetting the driver frame to default')
-                driver.switch_to.default_content()
+            if(not is_purchased):
+                try:
+                    buy_button = driver.find_element_by_xpath("//button[contains(@aria-label, 'Buy')]")
+                    logger.info('Clicking the first Buy button for %s' % app)
+                    buy_button.click()
+
+                    purchase_iframe = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//iframe[starts-with(@src, 'https://play.google.com/store/epurchase')]")))
+                    logger.info('Found the purchasing iframe')
+                    driver.switch_to.frame(purchase_iframe)
+
+                    continue_button = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.ID, 'purchase-ok-button')))
+                    logger.info('Clicking the Continue button for %s' % app)
+                    continue_button.click()
+
+                    buy_button_2 = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.ID, 'loonie-purchase-ok-button')))
+                    logger.info('Clicking the second Buy button for %s' % app)
+                    buy_button_2.click()
+
+                    driver.switch_to.default_content()
+                    password_field = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//input[@type='password' and @aria-label='Enter your password']"))) 
+                    logger.info('Entering the password')
+                    password_field.send_keys(password)
+                    password_field.send_keys(Keys.ENTER)
+
+                    purchase_iframe_2 = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//iframe[starts-with(@src, 'https://play.google.com/store/epurchase')]")))
+                    logger.info('Found the purchasing iframe again')
+                    driver.switch_to.frame(purchase_iframe_2)
+
+                    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+                    logger.info('Found the purchase confirmation')
+
+                    close_button = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.ID, 'close-dialog-button')))
+                    logger.info('Found the close purchase button')
+                    close_button.click()
+
+                    logger.info('Successfully purchased %s' % app)
+
+                    logger.info('Sleeping for %d seconds after successful purchase' % seconds_between)
+                    time.sleep(seconds_between)
+
+                except Exception as e:
+                    logger.exception('Exception buying %s' % app)
+
+                finally:
+                    logger.info('Resetting the driver frame to default')
+                    driver.switch_to.default_content()
+            else:
+                logger.info('%s has already been purchased, skipping' % app)
 
         driver.close()
 
