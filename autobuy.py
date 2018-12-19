@@ -32,7 +32,7 @@ def _parse_paid_list(paid_file):
     logger.info('Read %d lines' % len(paid_list))
     return paid_list
 
-def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30):
+def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30, cooldown_every=25, cooldown_seconds=45):
     geckodriver = os.path.join(my_dir, 'geckodriver', 'geckodriver-linux64')
     logger.info('Using geckodriver %s' % geckodriver)
 
@@ -40,7 +40,14 @@ def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30)
     logger.info('Using profile %s' % profile.path)
 
     with webdriver.Firefox(executable_path=geckodriver, firefox_profile=profile) as driver:
+        app_counter = 0
         for app in paid_list:
+            # Check for timeout
+            app_counter = app_counter + 1
+            if(app_counter % cooldown_every == 0):
+                logger.info('Cooling down for %s seconds' % cooldown_seconds)
+                time.sleep(cooldown_seconds)
+
             play_store_page = 'https://play.google.com/store/apps/details?id=%s' % app
             logger.info('Loading %s' % play_store_page)
             driver.get(play_store_page)
