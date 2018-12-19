@@ -32,7 +32,7 @@ def _parse_paid_list(paid_file):
     logger.info('Read %d lines' % len(paid_list))
     return paid_list
 
-def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30, cooldown_every=25, cooldown_seconds=45):
+def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30, cooldown_every=25, cooldown_seconds=120):
     geckodriver = os.path.join(my_dir, 'geckodriver', 'geckodriver-linux64')
     logger.info('Using geckodriver %s' % geckodriver)
 
