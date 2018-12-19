@@ -1,0 +1,696 @@
+INFO:__main__:Parsing paid list file data/pricing-10-under-d.csv
+INFO:__main__:['se.itatake.pebbleuniverse1', 'jp.ne.honmaitlabo.android.keepscreenon', 'com.samsung.overmob.ssh', 'com.ycdroid.hqvrpro', 'it.fr.gand.gapp', 'com.j5.android.parkingreminder.pro', 'com.jelkesoft.livewallpaper.christmas', 'com.martinodecarlo.level', 'com.olegapps.cavelwp', 'br.com.listatelefonica', 'com.darthsith.droidbriscola', 'fi.doctorme.sickless', 'serrano.melenchon.ivan.diamante', 'teoz.booking.manager', 'com.willware.rufio2', 'net.cm3d.writingvocabularyfortheuscitizenshipnaturalizationtest.premium', 'pnapp.pncalc.full', 'bloomob.mylifebook', 'jp.co.operahouse.bathromance_cute', 'jp.co.operahouse.fancycarousel', 'jp.co.operahouse.lovely_love', 'jp.co.operahouse.moon_and_blackcat', 'com.kyuudroid.simplemusicplayer', 'dominofull.ndroidz.com', 'eu.evgb.gravitygem.pro', 'se.sourcecode.sokoban.pro', 'de.fromfuture.BlueWhite', 'ndsoft.decimals', 'air.hiraganatango2', 'com.lunesoft.rushintervaltimer.professional', 'com.lemonions.petprofiles', 'air.com.ru_pro.touristwalletfull', 'air.playkey', 'angeli.federico.completo.it', 'au.com.cryptopia.app.bitbandit', 'barwick.probrain.suite', 'barwick.skifitness', 'ca.scfashion.islamicwidget', 'com.acteon.games.fiveline', 'com.ahillgames.oneeightydartsscorer', 'com.alawar.darktales5.gplay.premium', 'com.appventions.worldfacts', 'com.bbl.elimination', 'com.bbl.mathflashcardpack', 'com.berkeleystreetcleaning.pro', 'com.bertrandinterface.videoreader', 'com.blogspot.tdlmedia.christmasmoon', 'com.btek.fitness.fanatic', 'com.circuitcalcpro.droidcircuitcalcpro', 'com.cronoscopium.cattareversi', 'com.ddentertainment.gamma_ball', 'com.defranoux.l2launcher_full', 'com.dg.gtd.plugin.pure', 'com.dimension14.publishertycoonpaid', 'com.dnnstudio.kid_prodigy', 'com.doninn.doninnaudiocutter', 'com.driftwood.wallpaper.alarm', 'com.driftwood.wallpaper.chinesezodiak', 'com.effigrity.ayurvedichomemedicine.paid', 'com.eightfloor.asian_riddles_3', 'com.eightfloor.sakuradaytwomahjong.paymium.googleplay', 'com.embu.pinouts', 'com.faadooengineers.pro_ae', 'com.famlinkup.stratego', 'com.fox.wallpaper.halloween', 'com.gadnell.lostmummy', 'com.gombosdev.creaturesofearth', 'com.igottadroid.vrlauncher', 'com.ima.android.expensemanager', 'com.IvanAF.ClimbAMIYP', 'com.joesdomain.dungeonnightmares', 'com.jonblackwell.todo', 'com.kidsgamesgalaxy.connectblocks', 'com.labs.onirux.seaaquariumlivepro', 'com.luckyme.notificationold', 'com.mancwebdesign.colourviewer.pro', 'com.marijuana_gold_prox', 'com.mjdapp.wordwheel', 'com.mnocompany.awall', 'com.nostalgiaemulators.gbcfull', 'com.onetext.thompson', 'com.RexetStudio.TibersBox2', 'com.RockingPocketGames.iFishingFly', 'com.savee.battery.saver', 'com.semapplications.speedometerfull', 'com.skycode.atrance.deit', 'com.supergoodpixel.blackjack', 'com.tallmouse.livewallpaper.faraway.mmarine', 'com.tallmousegames.liveinkwallpaper', 'com.teragon.hexapole.pro', 'com.vd.mathsformulapro', 'com.venturecomm.namey', 'com.zdamusement.livewallaper.amazingforest', 'cz.rychtar.android.quickcall', 'de.fk.android.pushy', 'de.hms.xconstructionfull', 'de.topobyte.apps.offline.stadtplan.stuttgart', 'de.zorillasoft.musicfolderplayer.donate', 'eu.foxjunior.simplecleanwatchface', 'ig.Indice_pro', 'jp.ogawa.hideki.driveinfo', 'jp.pascal.fishing', 'kunalksj.christmastime', 'me.manabreak.bandit.paid', 'mem.rivex', 'nikisoft.apps.shiftsmanager', 'officeeyessaver.com', 'org.palmsoft.komponistpro', 'pl.netigen.bestclassicguitar', 'praksto.com.callbckpay', 'ru.ag38.backgroundsoundrecorder', 'ru.comp.rusnshphrpro', 'ru.eroge.wintertale', 'se.creativeai.reversi.full', 'sk.host.ebitt.cal2full', 'smpxg.egggz', 'tc.engsoft.memoocean', 'uk.me.dmi.android.barclone', 'vn.creativeapps.pro.lunge', 'wa.supertilesmash.pro', 'app.vovan.scarfes1', 'com.altlimit.livebatterypaid', 'com.grantojanen.charactercodechampion', 'com.octoroid.komadori', 'com.phoseducation.wordcollector2', 'com.suvi.autocon', 'org.nattou.senga', 'deepbluemedia.iquit', 'com.liquidplayer', 'com.j5.android.locationreminder.pro', 'com.binteraktive.dgafull', 'com.glaucopercopo.app.electricguitarpro', 'com.jobspeopledo.english', 'de.mmeisenbahn.mmrailway_pro', 'com.leen.wallpaper.fantasticnature', 'com.leen.wallpaper.misteriousisland', 'com.uppbridge.vrstarelude', 'name.okuhara.boobyreversi.full', 'it.ondaerre.tria_ebook.cicerone1', 'yo.app', 'com.lobolopez.mybikelog', 'de.amberhome.weather2', 'jp.co.nihon_e.kidsrestaurant', 'com.glups.newsyview', 'com.heybear.atoz', 'com.heybear.babyview', 'me.nigauri.reviewkun.advance', 'org.streetdrugs.cocaine', 'app.free.dictionaryen_lao_pro', 'app.free.dictionaryen_ma_pro', 'com.hogdex.photofraudpaid', 'com.novelanswer.statisticalqualitycontrol', 'jp.idl.helitrainer', 'com.allmax.al', 'com.amapps.android.PowerIP', 'com.kokufu.android.apps.sqliteviewer', 'air.com.animangaplus.bdcf03', 'air.com.animangaplus.bdfb02', 'air.com.animangaplus.bdfb03', 'air.com.killerbytesgames.hoppinjalapenos', 'air.com.tutotoons.app.powergirlssupercity.full', 'air.cz.cfc.androidgp.AnimatedPuzzle', 'air.junglemusic', 'air.pixelo', 'apricoworks.android.wallpaper.flowerflowalarm', 'apricoworks.android.wallpaper.loveflow', 'apricoworks.android.wallpaper.otometokei', 'au.com.twentytwopoint.rapitap', 'ca.cedarandriver.android.abc', 'com.acs.galaxylwp.pro', 'com.acs.plastaquariumlwp.premium', 'com.acs.winterlwp.pro', 'com.aeroware.androbearing', 'com.aikidroid.aikidofifthkyudonate', 'com.alliumsystems.klondikesolitaire', 'com.apofiss.littleowl', 'com.arent.myfirstdrawings', 'com.arent.myfirsttangrams', 'com.astrovicapp.bigdays', 'com.axlsofts.budget.full', 'com.bagelboysoftware.bbdenaltpro', 'com.baijiahu.calllogwidget.paid', 'com.beattheodds.daily3', 'com.beiz.lolabeachpuzzle', 'com.bertrandinterface.videoreaderplus', 'com.bibleofmanycolors.rhett', 'com.blazingbyte.jellyfish', 'com.bloodhoundstudios.gridinfect', 'com.brightson.soft.knowledge.EKG_Pro', 'com.clbsystems.superiortipcalculator.paid', 'com.clockworkpixels.vampireventures', 'com.codesector.speedview.pro', 'com.creaturecorp.princesscashregisterfull', 'com.cyancanyon.blasted', 'com.delitestudio.filetransfer', 'com.devdnua.equalizer', 'com.digidust.elokence.akinator.paid', 'com.digitalchemy.calculator.decimal', 'com.djit.apps.eq.pro', 'com.donutman.baccarat.full', 'com.dotnetideas.mypartyplanner', 'com.driftwood.longbow', 'com.drsulaimanapps.drugscape', 'com.dualboot.apps.springzen', 'com.eggrollgames.matchmathmultiplicationpaid', 'com.eggrollgames.matchnumberspaid', 'com.eggrollgames.matchshapespaid', 'com.eightfloor.alicepatchwork.paymium.googleplay', 'com.eightfloor.detectiveriddles.paymium.mob', 'com.eightfloor.halloweennightmahjong.paymium.googleplay', 'com.eightfloor.sakuradaymahjong.paymium.googleplay', 'com.eightfloor.thanksgivingdaygriddlers.googleplay.paymium', 'com.elky.likekids.gr', 'com.elky.likekids.jp', 'com.elky.likekids.tr', 'com.ezcamwidget', 'com.ffcs.lotofacil', 'com.firerabbit.android.game.fixmycar.full', 'com.fugisoft.hangingwithcheaterspaid', 'com.gamehouse.monumentempire', 'com.globaldpi.measuremap', 'com.gmail.droidloup.babybeacon', 'com.gp.uart', 'com.haydenTheAndroid.pixelFleetLWP', 'com.hg.tattootycoon', 'com.hg.viking', 'com.hinhnenemail.pro', 'com.hmobile.biblekjvpro', 'com.hooeyapps.survivaltoolspro', 'com.immersiondesignstudio.nuvue', 'com.intellijoy.drawwithshapes', 'com.jfjsoftware.abc123.paid', 'com.kellytechnology.mathtech', 'com.keyspice.lovedesignerpro', 'com.klox.metar.app', 'com.ksolve.simpleequations', 'com.kunstmusik', 'com.kyrutech.speeder', 'com.larshoye.apps.games.robot.paid', 'com.lemi.smsautoreplytextmessagepro', 'com.limongames.symbolics', 'com.livewallpaper.halloween', 'com.lizanityfull', 'com.logan19gp.loterrygenerator', 'com.lonedwarfgames.tankrecon2paid', 'com.loveapps.bingo_paid_app', 'com.maalaimalar.mmcalender2018', 'com.matungos.sshing.donate', 'com.merciari.tombolaelettronica', 'com.mgh.android.rw.elem.grammarwonderland', 'com.micchan.strawberrypad', 'com.microids.HdOv25.HdO3Musketeers.full', 'com.microids.HdOv25.HdOBonnieAndClyde.full', 'com.microids.HdOv25.HdOFrankenstein.full', 'com.microids.HdOv25.HdORomance.full', 'com.microids.HdOv25.HdOTreasureIsland.full', 'com.microids.HdOv25.HdOVampire.full', 'com.microids.HdOv3.HdOLesMiserables.full', 'com.microids.HdOv3.HdOLesMiserables2.full', 'com.movinapp.dict.denl', 'com.musicagames.dosolfa', 'com.natewren.linesdark', 'com.natewren.murderedout', 'com.nobu_games.android.hypernotes', 'com.onegravity.sudoku4ever.plus', 'com.optimesoftware.tictactoe.pro', 'com.orangepixel.chronocash', 'com.orangepixel.dungeon', 'com.orionsmason.ballerinapuzzles', 'com.orionsmason.christmaspuzzle', 'com.orionsmason.easterpuzzle', 'com.orionsmason.fairypuzzles', 'com.orionsmason.halloweenpuzzles2', 'com.orionsmason.petpuzzle', 'com.orionsmason.spacepuzzle', 'com.papoogames.animals', 'com.pazosoft.graphicCrossWord', 'com.perpixel.app.oceanruin', 'com.personalcloset.full', 'com.peterhohsy.C8051_tutorialpro', 'com.philippemarque.verbes_irreguliers_de', 'com.phonegap.guitdownNoAds', 'com.playcreek.DeathWorm', 'com.plumamazing.iwatermark', 'com.pmadelaine.btherm', 'com.pons.spellflash', 'com.ragecreations.freemason.lwp.full', 'com.rainbirth.zencolors', 'com.romanuhlig.twelveorbits', 'com.runtastic.android.heartrate.pro', 'com.runtastic.android.squats.pro', 'com.schimera.webdavnav', 'com.seekpi.drawthisdothat', 'com.sens.whisttinnitus', 'com.seyeonsoft.neobookmark', 'com.shadowinkdesigns.cryptozoology', 'com.shaun.emojilite_pro', 'com.shelter_droid.shelter', 'com.silverteam.shottimer200', 'com.skinnynote.android.gplay', 'com.skycode.atrance.enfr', 'com.skycode.atrance.enit', 'com.softmimo.android.sudoku', 'com.sogger.gmrnotifier', 'com.srapps.callrecall', 'com.stallware.dashdow.sms.plus', 'com.t11.skyview', 'com.tangram3D.Athletics2', 'com.thegamecreators.eduguruenglish5', 'com.theorytestukcar', 'com.thewordsearch.pro', 'com.tiltangames.seapuzzle', 'com.timegalore.headsupholdempoker', 'com.tinymission.dailycardioworkoutpaid', 'com.tmf.abcottdrm', 'com.topoflearning.best.vibering.medical.nursing.exam.review', 'com.topoflearning.best.vibering.usmle.test.bank.questions.secondset', 'com.trackthebird.medreminder', 'com.turtlerockstudios.garagebuddy', 'com.tutioncentral.jaiibpro', 'com.tvkdevelopment.nobloat', 'com.twopersonstudio.games.spiteandmalice', 'com.valorware.ninthdawnii', 'com.verbole.dcad.verbolerussian', 'com.vm.android.clockwork2', 'com.wilysis.cellinfo', 'com.xaleragames.connectdrawpro', 'com.xuecs.sqlitemanagerpro', 'com.yellowdroid.toddlerwordspro', 'com.zinkia.pocoyoclassic', 'cy6DfJVkoq4EGj7CZk3M.sandy', 'de.development.outline.marblemonster', 'de.miwi.personalcalendar', 'de.twayne.android.expertfantasyclock', 'fr.tokata.jimi.guitar', 'green.egear', 'handcare.superplux.handcare', 'hu.mep.pvcalc', 'info.solocrowd.lwfalllookup_paid', 'iqgames.sudoku', 'iqgames.sudoku2', 'iqgames.sudoku3', 'it.b77.pianomaster2', 'it.froggy.cucchiaino', 'joybits.doodlegod_hd', 'jp.co.minds_net.tagmemo', 'jp.tanyu.SmartAlarm', 'kfi.trip.log', 'knse.tangochosyncwithss', 'net.almancakelime.almancak.ga', 'net.karaapps.smsautoresponder', 'net.mrpear.vcardmanager', 'net.vela.vibering.educational.and.learning.application.cp.premium', 'net.xenotropic.quizznworldhist', 'nils.slideshow5000_pro', 'nl.hqmedia.quitsmokingbuddy', 'noblur.com.learncountingnumbers', 'org.artica.muu.igarafu', 'org.breezesoft.techoplus', 'org.freeandroidtools.root_checker_pro', 'org.kwitcherbitchen.powerless', 'ru.applct.trforall', 'ru.bastion7.springsakura.pro', 'ru.golgofa.decoypro', 'seer.computing.mysqlfunctions', 'siddur.sfaradi.pay', 'smpxg.crystallight', 'smpxg.jewelxmas', 'toyotascantool.lexusobd2.elm327.obd2.toyotaelm327.toyotasysscan.obdhightech.com.toyotasysscanpro', 'tw.com.bluemoon.baseboard', 'uk.co.aifactory.ginrummy', 'uk.co.aifactory.gomoku', 'uk.co.aifactory.moveit', 'uk.co.aifactory.solitaire', 'uk.co.aifactory.sudoku', 'uk.co.techmeology.chainreversi', 'viileetek.drivingDiaryA.namespace', 'vn.creativeapps.abworkout.pro', 'vn.creativeapps.pro.plank', 'vn.creativeapps.sexybutt.pro', 'zzs.notisysinfo.pro', 'com.blogspot.maxim_sheronov.sinus_live_wallpaper.pro', 'com.ebzits.learningburmese', 'com.jalsalabs.ticklemyphonefull', 'com.mindplanet.android.litelog', 'com.oruamsoft.megasena', 'com.oruamsoft.quina', 'com.RONAK.theme.Icephonewhite', 'com.sc2toolslab.sc2bmfull', 'jp.gr.java_conf.myoshii.android.soundrecc', 'at.ncn.antiviruspro2015', 'com.icecoldapps.photoeditorultimate', 'com.medialoha.android.monicar', 'com.startific.chameleon3dlwp', 'com.heybear.mathgridgooglepaid', 'com.pmadelaine.plb_utility', 'org.emmasgames.barnyardkidspuzzle', 'air.kanji', 'com.sympleza.grrudictionarypremium', 'com.a1.quiz.ieltsprep', 'com.mr.complete_biotech_dictionary', 'com.frozendragon.sceptrum.pay', 'com.yeoniyouni.news', 'appinventor.ai_fernando_ivan.como_esta_bebe', 'au.com.phil.abduction2', 'br.com.tibiadroid', 'clock3.GBB.org', 'com.afterhours.android.afterhours.full', 'com.alex.meditation', 'com.alex.pictures', 'com.alex.shinycolor', 'com.ammonite.cubeventure', 'com.ammonite.medievalcombat', 'com.appakabar.makanim', 'com.chess.master3dpro', 'com.dolphin.android.horariodetrabajopro', 'com.entercube.enqdrive.en', 'com.essential.usdriving.pro', 'com.glm.trainer', 'com.ispsoft.tplinkinstallerfull', 'com.james.ipholder', 'com.JC.time_clock', 'com.kedronic.memfruits', 'com.kvss.sd', 'com.laxitymedia.DirtRace', 'com.laxitymedia.DriftRace.full', 'com.laxitymedia.emojisrescue.full', 'com.movaudio.ecomposer', 'com.movinapp.dict.deit', 'com.movinapp.dict.detr', 'com.movinapp.dict.frnl', 'com.netpixel.showmygoal', 'com.noppoland.android.wazatimerpro', 'com.orangepixel.meganoid', 'com.overpass.dutchbubblebath', 'com.overpass.hungarianbubblebath', 'com.overpass.somalibubblebath', 'com.overpass.tagalogbb', 'com.ovogame.tropicalmania', 'com.primebitstudio.darktower', 'com.progimax.spray', 'com.spooksoft.musictrainer', 'com.thetisgames.googleplay.flightsimulator2016', 'com.timthefox.travel', 'com.troberg.alwayssms', 'com.tuneit.tuneit', 'com.visualit.zuti.washington', 'com.wieringsoftware.charlie_the_duck', 'com.zingmagic.chinesechessv', 'com.zinkia.pocoyo.colors', 'com.zinkia.pocoyo.numbers', 'de.jws.puzzlefull', 'es.vcode.musepad', 'it.ncaferra.pixelplayerpaid', 'jp.abt.lopnur.gearratiocalc', 'jp.favorite.calculator.calzo', 'jp.ne.asoft.android.uchorda', 'langame_es.rivex', 'langame_fr.rivex', 'langame_pl.rivex', 'langame_pt.rivex', 'net.zsoo.android.dma', 'nf.co.gefilter.simulado_oab', 'org.benditas.aagoyorubafull', 'ro.corado.loan.manager.pro', 'tc.engsoft.QA2', 'uk.co.knowles_online.raspberryssh', 'virtual.deck', 'l.werner.livewallpaper.hypnosistimepaid', 'marinsoft.EDZ', 'com.pineappledeveloper.cashit', 'com.proapplica.dietmasterapp', 'com.projectx.android.Scouter', 'rackoon.mucken', 'com.walex.gamecard.coinche', 'com.allentiumsoftware.happyhungry.android.pro', 'ru.yoga.yogapractika', 'com.i3wear.darkanalog', 'com.mr.complete_botany_dictionary', 'aqebidopu.prog.autoescuelaCarnetB', 'com.idteam.lwp.superwallpaper2016', 'ableton.knk.shortcuts', 'com.ullucus.fragmentsnoteasen', 'com.wordfind', 'com.bitbybitgames.mmamanager', 'com.rideon.sakaba_eng', 'com.sympleza.enesdictionarypremium', 'com.sympleza.enitdictionarypremium', 'com.sympleza.enswdictionarypremium', 'air.com.bloomingkids.DailyRoutineMatrix', 'air.com.rotorzone.rotorbalance', 'air.mobi.kidsacademy.gp.five.monkeys.hd', 'andrei.brusentcov.balda.pro', 'andrei.brusentcov.eye_exercises.pro', 'andrei.brusentcov.schoolcalculator.pro', 'b4a.bigemail', 'b4a.ecgrra', 'b4a.zephyrpro', 'br.com.chronoanalyzerpro', 'bt_control_pro.loedu.de.bluetoothcontrolpro', 'by.squareroot.kakuro.full', 'com.absolutist.foolcity', 'com.allinone.calculator', 'com.anahoret.android.shapes', 'com.appventions.atlas', 'com.autel.pro.spanish', 'com.autolauncher.motorcar', 'com.azbooks.meekamoo.eng.full', 'com.babbab_full', 'com.babysignandlearn.babysign', 'com.babysignandlearn.babysignandsing', 'com.bens.apps.ChampCalc.pro', 'com.bernware.ucvr', 'com.best.self.learning.apps.financial.accounting.test.bank', 'com.best.self.learning.apps.hvac.test.bank.exam.review', 'com.best.self.learning.apps.interpersonal.communication.skills', 'com.best.self.learning.apps.nurse.practitioner.exam.prep.review', 'com.best.self.learning.apps.physician.assistant.exam.preparation.panc', 'com.best.self.learning.apps.psychology.body.knowledge.encyclopedia', 'com.best.self.learning.apps.risk.management.exam.review', 'com.bigfishgames.enigmatisgooglefull', 'com.bigfishgames.llbwgoogfull', 'com.bigfishgames.mcffcgoogfull', 'com.brainium.freecell', 'com.brainium.solitaire', 'com.brochos.tizkor.sefira.full', 'com.buffstudio.onthehero', 'com.clbsystems.bombcodedefuser.paid', 'com.crazelle.app.todo', 'com.deltaphi.drumate', 'com.dingogames.tastyplanet1', 'com.doublecore.musicdropnplay', 'com.easeapps.islamicgreetingcards', 'com.easy8.cardshark', 'com.echohacks.echohacks', 'com.eggrollgames.animalmathgrade2paid', 'com.eggrollgames.askmecolorsshapes', 'com.eggrollgames.characterpuzzlefarmpaid', 'com.elky.likekids.it', 'com.firerabbit.games.overlive.unlocked', 'com.fyinc.multitimer', 'com.galakau.veloxfull', 'com.gameon.bubblebust2premium', 'com.gamesbypost.tilesbypost', 'com.gogiigames.mm1googfull', 'com.greekwinterproductions.westwarddystopia', 'com.herocraft.game.footlol', 'com.hg.dfwg', 'com.hg.dynamitefishing', 'com.hg.ninjaherocats', 'com.hssn.anatomy3d', 'com.idans.slowmo', 'com.imayi.dinodigger2', 'com.imayi.jurassicdig', 'com.imayi.monstertruckgo', 'com.ivanovichgames.wheresmygeek_premium', 'com.johnemulators.johngba', 'com.johnemulators.johngbc', 'com.kmcpesh.microbiologyantimicrobials', 'com.lambtongames.videopokerclassic', 'com.lescapadou.picturespelling', 'com.magicwach.rdefense', 'com.manoj.manojprabahar.mangata', 'com.medicalgroupsoft.medical.chemistryterminology.paid', 'com.medicalgroupsoft.medical.diseasesmkb.ger.paid', 'com.medicalgroupsoft.medical.drugsdictionary.paid', 'com.mike.virtualtrainer.pro', 'com.mm.trukey.app.full', 'com.mm.trurdp.full', 'com.morphonix.brainwave', 'com.naterop.freedivepro', 'com.nevosoft.christmasville', 'com.nevosoft.million', 'com.nevosoft.mushroomage', 'com.nevosoft.wonderlines', 'com.nightboost.kids.animals', 'com.noaa_weather.noaaweather', 'com.officephone.paid', 'com.omgpop.dstpaid', 'com.pearmobile.pearbible.asv', 'com.pearmobile.pearbible.kjv', 'com.pencilscribble.attendance_record', 'com.polusbooks.dssc.en', 'com.portable.timelapse', 'com.power20.momandbaby', 'com.power20.prenatal', 'com.protectstar.microguardprofessional', 'com.requestanapp.readingcomprehensionpaid', 'com.roonto.horror_paid', 'com.rootsfootballapp.app', 'com.samapp.backupsms.backsmspro', 'com.samapp.excelcontacts.excelcontactsfull', 'com.scicho.surface3dplot', 'com.sesiasoft.sport.misterteamfootball.pro', 'com.silvercrk.solitaire_iv', 'com.sitseducators.cprogrammingfacts', 'com.sitseducators.javaprogrammingfacts', 'com.slimcricket.petitesorciere', 'com.slimcricket.pipo', 'com.slimcricket.sorcieresansnom', 'com.softech.allbright.ANCC_Pro', 'com.softmedia.receiver', 'com.ssafitness.weightlossexercises', 'com.ssafitness.yogatoopeningpelvishd', 'com.stefanheine.sudoku.full.easy', 'com.stefanheine.sudoku.full.hard', 'com.teazel.crossword.cryptic.full', 'com.telbyte.pdf', 'com.think_android.apps.appmonster.cloud', 'com.topoflearning.best.medical.terminology.encyclopedia.science.dictionary', 'com.topoflearning.best.real.estate.definition.term.course', 'com.topoflearning.best.vibering.certified.applied.applied.Health.aptitude.test', 'com.topoflearning.best.vibering.registred.nurse.practitioner.np.arnp.exam', 'com.topoflearning.best.vibering.series7.finance.course.exam.review', 'com.twistago.android', 'com.upshft.upshiftprime', 'com.usa.evprecording.console', 'com.veitch.themelodymaster.pmp', 'com.vinhashapp.wifiportable.freewifihotspot', 'com.voiceplus', 'com.warlockstudio.armored.forces.world.war.full', 'com.withbuddies.dice', 'com.xoopsoft.apps.allsvenskanpro', 'com.xoopsoft.apps.argentinapro', 'com.xoopsoft.apps.australiapro', 'com.xoopsoft.apps.footballplus.germany.pro', 'com.xoopsoft.apps.footballplus.portugal.pro', 'com.xoopsoft.apps.segundaligapro', 'com.xoopsoft.apps.superligpro', 'com.zmileyapps.speedhack', 'de.wgr.vcapppremium34', 'dk.mochasoft.mochaping', 'gr.mobile.freemeteo.premium', 'imoblife.memorybooster.full', 'ipnossoft.rma.premium', 'jp.co.nsgd.nsdev.concentricmap', 'jp.hashisoft.race', 'live.full.photo.gps', 'no.henrikvs.trackloc', 'org.shlublu.android.netmonitor', 'pl.jumpapp.superhero.coloringbook.full', 'pro.holy.bible.king.james', 'reddit.news', 'tw.idv.max.tarot', 'wms.xoom2mespeakersfix', 'com.familygtg.app', 'com.fillinappenpro', 'com.mik61.catsoftheworldpremium', 'com.mik61.dogsoftheworldpremium', 'com.simplesoftwarestudio.prayerbook_en', 'com.complexsimulation.jigsawmathpuzzle', 'net.atamaswitch.nooote', 'air.com.touchmultimedia.comicpuppet', 'com.idtech.app.mydrums', 'nl.brightside.entoen.nu', 'com.ibeamsolver', 'com.kodarkooperativet.blackplayerex', 'com.chainsys.sevenkeysasthma', 'com.rollingfortress.wanderlust', 'uk.co.olilan.touchcalendar', 'ru.vsa.safenote', 'no.dontsayno.budgetmymoney', 'bruenor.magicbox', 'btc.constitucioncolombiana.nt', 'com.aquadroid.mix', 'com.doubleuinc.lovepositions', 'com.eryodsoft.android.cards.damedepique.full', 'com.gi.talkinggarfieldpremium', 'com.ik.torahptheb', 'com.kedronic.cbnchristmas', 'com.kedronic.dotsdinosaurs', 'com.manyquiz.programming.full', 'com.mssdevlab.shengencalculator', 'com.roei.oneclickcamerawidget', 'com.shine_research.babylon_pinball', 'com.trib.app.tectotrak', 'com.trib.app.trackandeventgps', 'com.undergroundcreative.footballchairmanpro', 'coolcoders.coolcamera', 'countdown.calendar', 'fr.telemaque.tarotsmarseille', 'it.rortos.hmsdestroyer', 'it.smh17.math.professional', 'it.suonoevita.apmtool2', 'jp.com.snow.clipboard', 'md.steuer.owncloud_gallery', 'my.wallets', 'se.brolinembedded.bulliontest', 'com.snyderss.theaswingpro', 'com.castreal.game.fezita', 'com.buenavistastudio.italiancooking', 'com.obdii_lqc.android.obdii.elm327.ecusimpro', 'com.vito.lux', 'com.milimacode.mccal', 'com.agentpp.android', 'ru.knnv.geometrycalc', 'cf.i_ya.chronograph', 'com.cognitial.directvremotepro', 'air.com.besta.englishnurseryrhymespro', 'air.com.bloomingkids.SubtractionUsingNumberLine', 'air.com.kglad.SpellingBug1stGradeWords', 'air.com.wegolf.gps', 'allen.carr', 'com.astro.dsoplannerbasic', 'com.best.self.learning.apps.foreign.service.officer.exam.prep', 'com.brainium.jumbline2', 'com.bytebolt.drumloops', 'com.cgollner.systemmonitor', 'com.digit.pmpexam', 'com.eslgamesplus.kinder2', 'com.jakyl.ssc', 'com.kevinbradford.games.secondgrade', 'com.kiwiwalks.witchspringlunaml', 'com.longint.lomag.warehousemanagementpay', 'com.manualhackergold', 'com.meditationoasis.sleepeasy', 'com.metosphere.music', 'com.mobi.android.quiz.bartenderquiz', 'com.mykhailovdovchenko.wfdca', 'com.neaststudios.procapture', 'com.neaststudios.superpano', 'com.nippt.amharicdictionary', 'com.nippt.kjv.bible', 'com.nippt.santa.bible', 'com.nippt.somalidictionary.pro', 'com.nippt.tagalog.bible', 'com.pocketglow.android.speakeasyfrench', 'com.pocketglow.android.speakeasyitalian', 'com.proactiveapp.womanlogbaby.pro', 'com.ratrodstudio.skateparty2', 'com.ratrodstudio.streetoutlaws', 'com.realbyteapps.moneya', 'com.sisow.hcvg.healthydiningguide', 'com.softcraft.vocabularybible', 'com.softmimo.android.calltimetracker', 'com.storytoys.Chuggington.Book1.Paid.GooglePlay', 'com.swotwords', 'com.tbig.playerpro', 'com.thinkyeah.privatespace', 'com.tivola.dogworld.dalmatian', 'com.tivola.fantasy.full', 'com.tss21.input.korean', 'com.welant.mockups', 'com.whirlscape.minuumkeyboard', 'com.wisdomlabs.vaccinationguidepro', 'com.wordpress.wisdomlab.antibiotictherapy', 'de.inforapid.knowledgebasebuilder.android', 'hwhzl.hlth.trk', 'ipcamsoft.com.ipcam', 'kemco.wws.eofa', 'paystub.paycheck.payroll.calculator.fullversion.pro', 'com.algorizk.windtunnel', 'com.papenmeier.wifibabymonitor', 'com.pocketglow.android.speakeasyukrainian', 'com.zamax.android.applist', 'au.com.collectmore.collectmore2', 'com.badur.mygedictionarypro', 'com.betapet.mobile.se.full', 'com.cyno.drawme', 'com.dna.lyricpad2.full', 'com.ferretking.sexdicepro', 'com.hydraulicpumps', 'com.kedronic.cbnanimals', 'com.onjara.weatherforecastuk', 'com.smartprojects.RAMOptimization', 'com.trans_code.android.droidscan', 'it.phosimgo', 'si.topapp.myscanspro', 'uk.co.samatkins.quickquote', 'com.myronalgebra', 'in.andante.MainActivity', 'com.ihanwel.nidrarelax.en', 'dk.mochasoft.telnet', 'com.qlapps.plinvoice', 'air.com.essig.spielplatzhd3', 'air.com.youdagames.gop2mobile', 'com.adrionics.android.adbmaster.installer', 'com.aliasworlds.kingdomchronicles.hd.full.google', 'com.arconyx.rosaryHDpremium', 'com.atistudios.mondly.vr.languages', 'com.azati.noteworks', 'com.battletac', 'com.beekeeper.databee', 'com.bigbluepixel.photomeasures', 'com.binibambini.Mini', 'com.bitknights.dict.engcro', 'com.byonetech.android.silencer', 'com.cloudworth.poland', 'com.cloudworth.sicily', 'com.danielviktorin.tramtycoon', 'com.datawaregames.coloringbook23', 'com.datawaregames.coloringbook27', 'com.datawaregames.stickerbook', 'com.datawaregames.stickerbook3', 'com.datawaregames.stickerbook4', 'com.dayglows.vivid.full', 'com.desertstormfront.android.full', 'com.fastemulator.gba', 'com.generalcoffee.fadeinmobile', 'com.icounttimer.android', 'com.ideeo.inadvanced', 'com.innovativelanguage.wordpower.russian', 'com.khymaera.android.listnote', 'com.knbmedia.findthemalldino', 'com.metalanguage.learndanish', 'com.metalanguage.learngerman', 'com.metalanguage.learngreek', 'com.metalanguage.learnhindi', 'com.metalanguage.learnitalian', 'com.MpFish.Knots', 'com.phanotek.xtremesoaring3d2', 'com.phanovatives.gunshipIII.vpaf', 'com.planeth.gstflphedminferno1', 'com.pocketglow.android.speakeasyrussian', 'com.pointclickgames.lostadventure', 'com.radio.laradiola.professional', 'com.roebot.paperrouteaid', 'com.rscompany.hisiwon', 'com.rt.acrosudoku', 'com.runloop.seconds', 'com.runtastic.android.mountainbike.pro', 'com.sg.ranaz.foodwaste', 'com.shredtraining.guitarmageddonpro', 'com.soundgraph.remoteplus.pro', 'com.stock2own.stockvalueanalyzerpro', 'com.stockmusicboutique.basscat', 'com.taptapstudio.dailyscripture', 'com.taptapstudio.dailystreams', 'com.taptapstudio.dailyword', 'com.tdfsoftware.fiv', 'com.tinymission.dailyyogapaid', 'com.tommo.tgpepp3', 'com.tritoninteractive.remuda', 'de.koloch.evaluator', 'org.naturemobile.fruits2pro', 'pl.idreams.pottery', 'se.maginteractive.rumble', 'com.helpfulware.flash_it_greek', 'com.tripitech.callbuffer24hpro', 'strategicalliance.examonline.cpabe', 'strategicalliance.examonline.pmp', 'com.eclipsedroid', 'balance.psiletronfull', 'binaryearth.handygps', 'com.bengigi.selfish', 'com.ibyteapps.joecharlie', 'com.tutotoons.app.ponysistershairsalon2.full', 'com.vialsoft.ifahrschultheorie', 'com.vialsoft.radarwarner', 'inc.com.youbo.invocationsquotidiennes.pro', 'br.com.neotab.appleiturainterativa', 'com.danielmedeiros.dwsim_calculator', 'com.gdc.android.yubisashi.jpfr', 'com.iu4apc.kx3companion', 'com.knipsoft.klaverjassen', 'com.maildroid.pro', 'com.ocstudio.essentialguardian', 'com.salik.myQuran', 'com.sogapps.cshymns', 'com.soundoasis.tinpro2', 'com.tk102_xexun', 'com.tutotoons.app.kittymeowmeowcityheroes.full', 'de.lutzclausnitzer.himmelsfuehrungen', 'de.lutzclausnitzer.himmelsfuehrungenen', 'ee.arws_apps.astrologyquiz', 'ee.arws_apps.chinese_astrology_quiz', 'in.blogspot.tmpbytak', 'org.naturemobile.dogs2pro', 'com.prosimulators.googleplay.proflightsimulator.paid', 'dgthien.english.crazyEnglish.vietnam', 'com.artifexmundi.eventide2.gp.full', 'com.artifexmundi.newera.gp.full', 'com.firstwaysoftware.tabletopicsrandomizer', 'com.handynorth.moneywise', 'com.sevensails.queensgarden2mobile', 'com.tsumanga.fairyclub', 'org.serasera.tononkira.spons', 'peacemaker.osteoalarm', 'eu.helloit.diyapp', 'com.kpraathul.gotrackpro', 'com.nchsoftware.tonegen', 'com.nissandatascan.ndatascaniii', 'com.peterfige.pocketsalsafestival.pro', 'pl.ayground.coloringbook2', 'teycode.kayra', 'com.codewai.fungipedia', 'com.slabapp.app', 'uk.co.encripta.encriptapro', 'com.austral.gpscartracker', 'com.bypn.android.app.coachpad.pro', 'com.ratana.sunsurveyor', 'com.snappyappz.ec', 'it.colucciweb.openvpn', 'net.cm3d.premium.uscitizenshiptest', 'slifkergames.com_poker_dealers_toolkit_pro', 'ch.erpsourcing.safari', 'com.beizoy.lolasworldpremium', 'com.mindboardapps.app.mbstd', 'montessori.cards.educational.games.for.toddlers.pro', 'com.droidcaddie.droidcaddie', 'bitsie.playmee.musicplayer.pro', 'com.mixvibes.crossdjapp', 'lrstudios.games.ego', 'com.flyingbusstudio.dreamingclock', 'de.snorek.freeapp.full', 'es.ganttdroidpro', 'gmin.app.reservations.ds', 'com.sensodroid.countscale', 'be.weeswegwijs.android.VerkeerBE', 'com.acupuncturemeridians.acupuncturemeridians3dfull', 'com.adveniosoftware.vhftrainer', 'com.androhelm.antivirus.pro.half', 'com.ascendo.android.dictionary.fr', 'com.ascendo.android.dictionary.it', 'com.atlaswearables.ionic.androidwear', 'com.cambridgeuseofenglish.fce', 'com.criticalthinking.mindbenders1', 'com.infomir.stalkertv', 'com.innovativelanguage.wordpower.chinesetraditional', 'com.innovativelanguage.wordpower.englishuk', 'com.innovativelanguage.wordpower.englishus', 'com.innovativelanguage.wordpower.french', 'com.innovativelanguage.wordpower.indonesian', 'com.innovativelanguage.wordpower.korean', 'com.innovativelanguage.wordpower.malay', 'com.innovativelanguage.wordpower.polish', 'com.innovativelanguage.wordpower.portuguese', 'com.innovativelanguage.wordpower.swahili', 'com.ksharkapps.filebrowser', 'com.mobisystems.mobiscannerpro', 'com.orbit.orbitsmarthome.pro', 'com.sevenbit.firearmenator', 'com.tactustherapy.vat', 'com.trap.petroleum.petrophysics', 'com.zz.betting.prosupertips.pro', 'geckocreativeworks.gemmorg.full', 'org.pseudolabs.musiclounge', 'psyberia.alpinequest.full', 'com.ekoheif.nephrology_advisor', 'com.faadooengineers.pro_basicelectricalfirstyear', 'com.faadooengineers.pro_environmentalengineering', 'com.faadooengineers.pro_mathsforengineers', 'com.faadooengineers.pro_physicsforengineers2', 'com.faadooengineers.pro_strengthofmaterials', 'com.faadooengineers.pro_theoryofmachines1']
+INFO:__main__:Read 945 lines
+INFO:__main__:Using geckodriver /home/ioreyes/Programming/auto-buy/geckodriver/geckodriver-linux64
+INFO:__main__:Using profile /tmp/tmpnsibtx0o/webdriver-py-profilecopy
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=se.itatake.pebbleuniverse1
+INFO:__main__:Clicking the first Buy button for se.itatake.pebbleuniverse1
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for se.itatake.pebbleuniverse1
+INFO:__main__:Clicking the second Buy button for se.itatake.pebbleuniverse1
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased se.itatake.pebbleuniverse1
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=jp.ne.honmaitlabo.android.keepscreenon
+INFO:__main__:Clicking the first Buy button for jp.ne.honmaitlabo.android.keepscreenon
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for jp.ne.honmaitlabo.android.keepscreenon
+INFO:__main__:Clicking the second Buy button for jp.ne.honmaitlabo.android.keepscreenon
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased jp.ne.honmaitlabo.android.keepscreenon
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.samsung.overmob.ssh
+INFO:__main__:Clicking the first Buy button for com.samsung.overmob.ssh
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.samsung.overmob.ssh
+INFO:__main__:Clicking the second Buy button for com.samsung.overmob.ssh
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.samsung.overmob.ssh
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.ycdroid.hqvrpro
+INFO:__main__:Clicking the first Buy button for com.ycdroid.hqvrpro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.ycdroid.hqvrpro
+INFO:__main__:Clicking the second Buy button for com.ycdroid.hqvrpro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.ycdroid.hqvrpro
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=it.fr.gand.gapp
+INFO:__main__:Clicking the first Buy button for it.fr.gand.gapp
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for it.fr.gand.gapp
+INFO:__main__:Clicking the second Buy button for it.fr.gand.gapp
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased it.fr.gand.gapp
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.j5.android.parkingreminder.pro
+INFO:__main__:Clicking the first Buy button for com.j5.android.parkingreminder.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.j5.android.parkingreminder.pro
+INFO:__main__:Clicking the second Buy button for com.j5.android.parkingreminder.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.j5.android.parkingreminder.pro
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.jelkesoft.livewallpaper.christmas
+INFO:__main__:Clicking the first Buy button for com.jelkesoft.livewallpaper.christmas
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.jelkesoft.livewallpaper.christmas
+INFO:__main__:Clicking the second Buy button for com.jelkesoft.livewallpaper.christmas
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.jelkesoft.livewallpaper.christmas
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.martinodecarlo.level
+INFO:__main__:Clicking the first Buy button for com.martinodecarlo.level
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.martinodecarlo.level
+INFO:__main__:Clicking the second Buy button for com.martinodecarlo.level
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.martinodecarlo.level
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.olegapps.cavelwp
+INFO:__main__:Clicking the first Buy button for com.olegapps.cavelwp
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.olegapps.cavelwp
+INFO:__main__:Clicking the second Buy button for com.olegapps.cavelwp
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.olegapps.cavelwp
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=br.com.listatelefonica
+INFO:__main__:Clicking the first Buy button for br.com.listatelefonica
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for br.com.listatelefonica
+INFO:__main__:Clicking the second Buy button for br.com.listatelefonica
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased br.com.listatelefonica
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.darthsith.droidbriscola
+INFO:__main__:Clicking the first Buy button for com.darthsith.droidbriscola
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.darthsith.droidbriscola
+INFO:__main__:Clicking the second Buy button for com.darthsith.droidbriscola
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.darthsith.droidbriscola
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=fi.doctorme.sickless
+INFO:__main__:Clicking the first Buy button for fi.doctorme.sickless
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for fi.doctorme.sickless
+INFO:__main__:Clicking the second Buy button for fi.doctorme.sickless
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased fi.doctorme.sickless
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=serrano.melenchon.ivan.diamante
+INFO:__main__:Clicking the first Buy button for serrano.melenchon.ivan.diamante
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for serrano.melenchon.ivan.diamante
+INFO:__main__:Clicking the second Buy button for serrano.melenchon.ivan.diamante
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased serrano.melenchon.ivan.diamante
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=teoz.booking.manager
+INFO:__main__:Clicking the first Buy button for teoz.booking.manager
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for teoz.booking.manager
+INFO:__main__:Clicking the second Buy button for teoz.booking.manager
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased teoz.booking.manager
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.willware.rufio2
+INFO:__main__:Clicking the first Buy button for com.willware.rufio2
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.willware.rufio2
+INFO:__main__:Clicking the second Buy button for com.willware.rufio2
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.willware.rufio2
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=net.cm3d.writingvocabularyfortheuscitizenshipnaturalizationtest.premium
+INFO:__main__:Clicking the first Buy button for net.cm3d.writingvocabularyfortheuscitizenshipnaturalizationtest.premium
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for net.cm3d.writingvocabularyfortheuscitizenshipnaturalizationtest.premium
+INFO:__main__:Clicking the second Buy button for net.cm3d.writingvocabularyfortheuscitizenshipnaturalizationtest.premium
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased net.cm3d.writingvocabularyfortheuscitizenshipnaturalizationtest.premium
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=pnapp.pncalc.full
+INFO:__main__:Clicking the first Buy button for pnapp.pncalc.full
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for pnapp.pncalc.full
+INFO:__main__:Clicking the second Buy button for pnapp.pncalc.full
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased pnapp.pncalc.full
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=bloomob.mylifebook
+INFO:__main__:Clicking the first Buy button for bloomob.mylifebook
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for bloomob.mylifebook
+INFO:__main__:Clicking the second Buy button for bloomob.mylifebook
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased bloomob.mylifebook
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=jp.co.operahouse.bathromance_cute
+INFO:__main__:Clicking the first Buy button for jp.co.operahouse.bathromance_cute
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for jp.co.operahouse.bathromance_cute
+INFO:__main__:Clicking the second Buy button for jp.co.operahouse.bathromance_cute
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased jp.co.operahouse.bathromance_cute
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=jp.co.operahouse.fancycarousel
+INFO:__main__:Clicking the first Buy button for jp.co.operahouse.fancycarousel
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for jp.co.operahouse.fancycarousel
+INFO:__main__:Clicking the second Buy button for jp.co.operahouse.fancycarousel
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased jp.co.operahouse.fancycarousel
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=jp.co.operahouse.lovely_love
+INFO:__main__:Clicking the first Buy button for jp.co.operahouse.lovely_love
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for jp.co.operahouse.lovely_love
+INFO:__main__:Clicking the second Buy button for jp.co.operahouse.lovely_love
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased jp.co.operahouse.lovely_love
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=jp.co.operahouse.moon_and_blackcat
+INFO:__main__:Clicking the first Buy button for jp.co.operahouse.moon_and_blackcat
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for jp.co.operahouse.moon_and_blackcat
+INFO:__main__:Clicking the second Buy button for jp.co.operahouse.moon_and_blackcat
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased jp.co.operahouse.moon_and_blackcat
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.kyuudroid.simplemusicplayer
+INFO:__main__:Clicking the first Buy button for com.kyuudroid.simplemusicplayer
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.kyuudroid.simplemusicplayer
+INFO:__main__:Clicking the second Buy button for com.kyuudroid.simplemusicplayer
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.kyuudroid.simplemusicplayer
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=dominofull.ndroidz.com
+INFO:__main__:Clicking the first Buy button for dominofull.ndroidz.com
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for dominofull.ndroidz.com
+INFO:__main__:Clicking the second Buy button for dominofull.ndroidz.com
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased dominofull.ndroidz.com
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Cooling down for 45 seconds
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=eu.evgb.gravitygem.pro
+INFO:__main__:Clicking the first Buy button for eu.evgb.gravitygem.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for eu.evgb.gravitygem.pro
+INFO:__main__:Clicking the second Buy button for eu.evgb.gravitygem.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased eu.evgb.gravitygem.pro
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=se.sourcecode.sokoban.pro
+INFO:__main__:Clicking the first Buy button for se.sourcecode.sokoban.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for se.sourcecode.sokoban.pro
+INFO:__main__:Clicking the second Buy button for se.sourcecode.sokoban.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased se.sourcecode.sokoban.pro
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=de.fromfuture.BlueWhite
+INFO:__main__:Clicking the first Buy button for de.fromfuture.BlueWhite
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for de.fromfuture.BlueWhite
+INFO:__main__:Clicking the second Buy button for de.fromfuture.BlueWhite
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased de.fromfuture.BlueWhite
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=ndsoft.decimals
+INFO:__main__:Clicking the first Buy button for ndsoft.decimals
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for ndsoft.decimals
+INFO:__main__:Clicking the second Buy button for ndsoft.decimals
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased ndsoft.decimals
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=air.hiraganatango2
+INFO:__main__:Clicking the first Buy button for air.hiraganatango2
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for air.hiraganatango2
+INFO:__main__:Clicking the second Buy button for air.hiraganatango2
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased air.hiraganatango2
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.lunesoft.rushintervaltimer.professional
+INFO:__main__:Clicking the first Buy button for com.lunesoft.rushintervaltimer.professional
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.lunesoft.rushintervaltimer.professional
+INFO:__main__:Clicking the second Buy button for com.lunesoft.rushintervaltimer.professional
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.lunesoft.rushintervaltimer.professional
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.lemonions.petprofiles
+INFO:__main__:Clicking the first Buy button for com.lemonions.petprofiles
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.lemonions.petprofiles
+INFO:__main__:Clicking the second Buy button for com.lemonions.petprofiles
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.lemonions.petprofiles
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=air.com.ru_pro.touristwalletfull
+INFO:__main__:Clicking the first Buy button for air.com.ru_pro.touristwalletfull
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for air.com.ru_pro.touristwalletfull
+INFO:__main__:Clicking the second Buy button for air.com.ru_pro.touristwalletfull
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased air.com.ru_pro.touristwalletfull
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=air.playkey
+INFO:__main__:Clicking the first Buy button for air.playkey
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for air.playkey
+INFO:__main__:Clicking the second Buy button for air.playkey
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased air.playkey
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=angeli.federico.completo.it
+INFO:__main__:Clicking the first Buy button for angeli.federico.completo.it
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for angeli.federico.completo.it
+INFO:__main__:Clicking the second Buy button for angeli.federico.completo.it
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased angeli.federico.completo.it
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=au.com.cryptopia.app.bitbandit
+INFO:__main__:Clicking the first Buy button for au.com.cryptopia.app.bitbandit
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for au.com.cryptopia.app.bitbandit
+INFO:__main__:Clicking the second Buy button for au.com.cryptopia.app.bitbandit
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased au.com.cryptopia.app.bitbandit
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=barwick.probrain.suite
+INFO:__main__:Clicking the first Buy button for barwick.probrain.suite
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for barwick.probrain.suite
+INFO:__main__:Clicking the second Buy button for barwick.probrain.suite
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased barwick.probrain.suite
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=barwick.skifitness
+INFO:__main__:Clicking the first Buy button for barwick.skifitness
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for barwick.skifitness
+INFO:__main__:Clicking the second Buy button for barwick.skifitness
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased barwick.skifitness
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=ca.scfashion.islamicwidget
+INFO:__main__:Clicking the first Buy button for ca.scfashion.islamicwidget
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for ca.scfashion.islamicwidget
+INFO:__main__:Clicking the second Buy button for ca.scfashion.islamicwidget
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased ca.scfashion.islamicwidget
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.acteon.games.fiveline
+INFO:__main__:Clicking the first Buy button for com.acteon.games.fiveline
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.acteon.games.fiveline
+INFO:__main__:Clicking the second Buy button for com.acteon.games.fiveline
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.acteon.games.fiveline
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.ahillgames.oneeightydartsscorer
+INFO:__main__:Clicking the first Buy button for com.ahillgames.oneeightydartsscorer
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.ahillgames.oneeightydartsscorer
+INFO:__main__:Clicking the second Buy button for com.ahillgames.oneeightydartsscorer
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.ahillgames.oneeightydartsscorer
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.alawar.darktales5.gplay.premium
+INFO:__main__:Clicking the first Buy button for com.alawar.darktales5.gplay.premium
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.alawar.darktales5.gplay.premium
+INFO:__main__:Clicking the second Buy button for com.alawar.darktales5.gplay.premium
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.alawar.darktales5.gplay.premium
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.appventions.worldfacts
+INFO:__main__:Clicking the first Buy button for com.appventions.worldfacts
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.appventions.worldfacts
+INFO:__main__:Clicking the second Buy button for com.appventions.worldfacts
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.appventions.worldfacts
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.bbl.elimination
+INFO:__main__:Clicking the first Buy button for com.bbl.elimination
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.bbl.elimination
+INFO:__main__:Clicking the second Buy button for com.bbl.elimination
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.bbl.elimination
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.bbl.mathflashcardpack
+INFO:__main__:Clicking the first Buy button for com.bbl.mathflashcardpack
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.bbl.mathflashcardpack
+INFO:__main__:Clicking the second Buy button for com.bbl.mathflashcardpack
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.bbl.mathflashcardpack
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.berkeleystreetcleaning.pro
+INFO:__main__:Clicking the first Buy button for com.berkeleystreetcleaning.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.berkeleystreetcleaning.pro
+INFO:__main__:Clicking the second Buy button for com.berkeleystreetcleaning.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.berkeleystreetcleaning.pro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.bertrandinterface.videoreader
+INFO:__main__:Clicking the first Buy button for com.bertrandinterface.videoreader
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.bertrandinterface.videoreader
+INFO:__main__:Clicking the second Buy button for com.bertrandinterface.videoreader
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.bertrandinterface.videoreader
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.blogspot.tdlmedia.christmasmoon
+INFO:__main__:Clicking the first Buy button for com.blogspot.tdlmedia.christmasmoon
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.blogspot.tdlmedia.christmasmoon
+INFO:__main__:Clicking the second Buy button for com.blogspot.tdlmedia.christmasmoon
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.blogspot.tdlmedia.christmasmoon
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.btek.fitness.fanatic
+INFO:__main__:Clicking the first Buy button for com.btek.fitness.fanatic
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.btek.fitness.fanatic
+INFO:__main__:Clicking the second Buy button for com.btek.fitness.fanatic
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.btek.fitness.fanatic
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.circuitcalcpro.droidcircuitcalcpro
+INFO:__main__:Clicking the first Buy button for com.circuitcalcpro.droidcircuitcalcpro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.circuitcalcpro.droidcircuitcalcpro
+INFO:__main__:Clicking the second Buy button for com.circuitcalcpro.droidcircuitcalcpro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.circuitcalcpro.droidcircuitcalcpro
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a843f63c8>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d0efee66-b054-447c-8474-ca34252c4f8c/frame
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a843f66d8>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d0efee66-b054-447c-8474-ca34252c4f8c/frame
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a843f6a90>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d0efee66-b054-447c-8474-ca34252c4f8c/frame
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a843c6860>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d0efee66-b054-447c-8474-ca34252c4f8c
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a843f69e8>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d0efee66-b054-447c-8474-ca34252c4f8c
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a843f6e10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d0efee66-b054-447c-8474-ca34252c4f8c
+Traceback (most recent call last):
+  File "autobuy.py", line 100, in _buy
+    time.sleep(seconds_between)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/connection.py", line 159, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/util/connection.py", line 80, in create_connection
+    raise err
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/util/connection.py", line 70, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 354, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib64/python3.7/http/client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib64/python3.7/http/client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib64/python3.7/http/client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib64/python3.7/http/client.py", line 1016, in _send_output
+    self.send(msg)
+  File "/usr/lib64/python3.7/http/client.py", line 956, in send
+    self.connect()
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/connection.py", line 181, in connect
+    conn = self._new_conn()
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/connection.py", line 168, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f5a843f68d0>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "autobuy.py", line 107, in _buy
+    driver.switch_to.default_content()
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/remote/switch_to.py", line 65, in default_content
+    self._driver.execute(Command.SWITCH_TO_FRAME, {'id': None})
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/request.py", line 72, in request
+    **urlopen_kw)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/request.py", line 150, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/poolmanager.py", line 323, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=54839): Max retries exceeded with url: /session/d0efee66-b054-447c-8474-ca34252c4f8c/frame (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a843f68d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "autobuy.py", line 122, in <module>
+    _buy(paid_list, args.profile, args.password)
+  File "autobuy.py", line 111, in _buy
+    driver.close()
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 170, in __exit__
+    self.quit()
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/firefox/webdriver.py", line 215, in quit
+    shutil.rmtree(self.profile.path)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/shutil.py", line 485, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/shutil.py", line 423, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/shutil.py", line 423, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/shutil.py", line 423, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/shutil.py", line 401, in _rmtree_safe_fd
+    entries = list(scandir_it)
+KeyboardInterrupt

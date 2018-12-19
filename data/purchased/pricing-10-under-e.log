@@ -1,0 +1,2320 @@
+INFO:__main__:Parsing paid list file data/pricing-10-under-e.csv
+INFO:__main__:['com.berkeleystreetcleaning.pro', 'com.cronoscopium.cattareversi', 'com.ddentertainment.gamma_ball', 'com.defranoux.l2launcher_full', 'com.dg.gtd.plugin.pure', 'com.dimension14.publishertycoonpaid', 'com.dnnstudio.kid_prodigy', 'com.doninn.doninnaudiocutter', 'com.driftwood.wallpaper.alarm', 'com.driftwood.wallpaper.chinesezodiak', 'com.effigrity.ayurvedichomemedicine.paid', 'com.eightfloor.asian_riddles_3', 'com.eightfloor.sakuradaytwomahjong.paymium.googleplay', 'com.embu.pinouts', 'com.faadooengineers.pro_ae', 'com.famlinkup.stratego', 'com.fox.wallpaper.halloween', 'com.gadnell.lostmummy', 'com.gombosdev.creaturesofearth', 'com.igottadroid.vrlauncher', 'com.ima.android.expensemanager', 'com.IvanAF.ClimbAMIYP', 'com.joesdomain.dungeonnightmares', 'com.jonblackwell.todo', 'com.kidsgamesgalaxy.connectblocks', 'com.labs.onirux.seaaquariumlivepro', 'com.luckyme.notificationold', 'com.mancwebdesign.colourviewer.pro', 'com.marijuana_gold_prox', 'com.mjdapp.wordwheel', 'com.mnocompany.awall', 'com.nostalgiaemulators.gbcfull', 'com.onetext.thompson', 'com.RexetStudio.TibersBox2', 'com.RockingPocketGames.iFishingFly', 'com.savee.battery.saver', 'com.semapplications.speedometerfull', 'com.skycode.atrance.deit', 'com.supergoodpixel.blackjack', 'com.tallmouse.livewallpaper.faraway.mmarine', 'com.tallmousegames.liveinkwallpaper', 'com.teragon.hexapole.pro', 'com.vd.mathsformulapro', 'com.venturecomm.namey', 'com.zdamusement.livewallaper.amazingforest', 'cz.rychtar.android.quickcall', 'de.fk.android.pushy', 'de.hms.xconstructionfull', 'de.topobyte.apps.offline.stadtplan.stuttgart', 'de.zorillasoft.musicfolderplayer.donate', 'eu.foxjunior.simplecleanwatchface', 'ig.Indice_pro', 'jp.ogawa.hideki.driveinfo', 'jp.pascal.fishing', 'kunalksj.christmastime', 'me.manabreak.bandit.paid', 'mem.rivex', 'nikisoft.apps.shiftsmanager', 'officeeyessaver.com', 'org.palmsoft.komponistpro', 'pl.netigen.bestclassicguitar', 'praksto.com.callbckpay', 'ru.ag38.backgroundsoundrecorder', 'ru.comp.rusnshphrpro', 'ru.eroge.wintertale', 'se.creativeai.reversi.full', 'sk.host.ebitt.cal2full', 'smpxg.egggz', 'tc.engsoft.memoocean', 'uk.me.dmi.android.barclone', 'vn.creativeapps.pro.lunge', 'wa.supertilesmash.pro', 'app.vovan.scarfes1', 'com.altlimit.livebatterypaid', 'com.grantojanen.charactercodechampion', 'com.octoroid.komadori', 'com.phoseducation.wordcollector2', 'com.suvi.autocon', 'org.nattou.senga', 'deepbluemedia.iquit', 'com.liquidplayer', 'com.j5.android.locationreminder.pro', 'com.binteraktive.dgafull', 'com.glaucopercopo.app.electricguitarpro', 'com.jobspeopledo.english', 'de.mmeisenbahn.mmrailway_pro', 'com.leen.wallpaper.fantasticnature', 'com.leen.wallpaper.misteriousisland', 'com.uppbridge.vrstarelude', 'name.okuhara.boobyreversi.full', 'it.ondaerre.tria_ebook.cicerone1', 'yo.app', 'com.lobolopez.mybikelog', 'de.amberhome.weather2', 'jp.co.nihon_e.kidsrestaurant', 'com.glups.newsyview', 'com.heybear.atoz', 'com.heybear.babyview', 'me.nigauri.reviewkun.advance', 'org.streetdrugs.cocaine', 'app.free.dictionaryen_lao_pro', 'app.free.dictionaryen_ma_pro', 'com.hogdex.photofraudpaid', 'com.novelanswer.statisticalqualitycontrol', 'jp.idl.helitrainer', 'com.allmax.al', 'com.amapps.android.PowerIP', 'com.kokufu.android.apps.sqliteviewer', 'air.com.animangaplus.bdcf03', 'air.com.animangaplus.bdfb02', 'air.com.animangaplus.bdfb03', 'air.com.killerbytesgames.hoppinjalapenos', 'air.com.tutotoons.app.powergirlssupercity.full', 'air.cz.cfc.androidgp.AnimatedPuzzle', 'air.junglemusic', 'air.pixelo', 'apricoworks.android.wallpaper.flowerflowalarm', 'apricoworks.android.wallpaper.loveflow', 'apricoworks.android.wallpaper.otometokei', 'au.com.twentytwopoint.rapitap', 'ca.cedarandriver.android.abc', 'com.acs.galaxylwp.pro', 'com.acs.plastaquariumlwp.premium', 'com.acs.winterlwp.pro', 'com.aeroware.androbearing', 'com.aikidroid.aikidofifthkyudonate', 'com.alliumsystems.klondikesolitaire', 'com.apofiss.littleowl', 'com.arent.myfirstdrawings', 'com.arent.myfirsttangrams', 'com.astrovicapp.bigdays', 'com.axlsofts.budget.full', 'com.bagelboysoftware.bbdenaltpro', 'com.baijiahu.calllogwidget.paid', 'com.beattheodds.daily3', 'com.beiz.lolabeachpuzzle', 'com.bertrandinterface.videoreaderplus', 'com.bibleofmanycolors.rhett', 'com.blazingbyte.jellyfish', 'com.bloodhoundstudios.gridinfect', 'com.brightson.soft.knowledge.EKG_Pro', 'com.clbsystems.superiortipcalculator.paid', 'com.clockworkpixels.vampireventures', 'com.codesector.speedview.pro', 'com.creaturecorp.princesscashregisterfull', 'com.cyancanyon.blasted', 'com.delitestudio.filetransfer', 'com.devdnua.equalizer', 'com.digidust.elokence.akinator.paid', 'com.digitalchemy.calculator.decimal', 'com.djit.apps.eq.pro', 'com.donutman.baccarat.full', 'com.dotnetideas.mypartyplanner', 'com.driftwood.longbow', 'com.drsulaimanapps.drugscape', 'com.dualboot.apps.springzen', 'com.eggrollgames.matchmathmultiplicationpaid', 'com.eggrollgames.matchnumberspaid', 'com.eggrollgames.matchshapespaid', 'com.eightfloor.alicepatchwork.paymium.googleplay', 'com.eightfloor.detectiveriddles.paymium.mob', 'com.eightfloor.halloweennightmahjong.paymium.googleplay', 'com.eightfloor.sakuradaymahjong.paymium.googleplay', 'com.eightfloor.thanksgivingdaygriddlers.googleplay.paymium', 'com.elky.likekids.gr', 'com.elky.likekids.jp', 'com.elky.likekids.tr', 'com.ezcamwidget', 'com.ffcs.lotofacil', 'com.firerabbit.android.game.fixmycar.full', 'com.fugisoft.hangingwithcheaterspaid', 'com.gamehouse.monumentempire', 'com.globaldpi.measuremap', 'com.gmail.droidloup.babybeacon', 'com.gp.uart', 'com.haydenTheAndroid.pixelFleetLWP', 'com.hg.tattootycoon', 'com.hg.viking', 'com.hinhnenemail.pro', 'com.hmobile.biblekjvpro', 'com.hooeyapps.survivaltoolspro', 'com.immersiondesignstudio.nuvue', 'com.intellijoy.drawwithshapes', 'com.jfjsoftware.abc123.paid', 'com.kellytechnology.mathtech', 'com.keyspice.lovedesignerpro', 'com.klox.metar.app', 'com.ksolve.simpleequations', 'com.kunstmusik', 'com.kyrutech.speeder', 'com.larshoye.apps.games.robot.paid', 'com.lemi.smsautoreplytextmessagepro', 'com.limongames.symbolics', 'com.livewallpaper.halloween', 'com.lizanityfull', 'com.logan19gp.loterrygenerator', 'com.lonedwarfgames.tankrecon2paid', 'com.loveapps.bingo_paid_app', 'com.maalaimalar.mmcalender2018', 'com.matungos.sshing.donate', 'com.merciari.tombolaelettronica', 'com.mgh.android.rw.elem.grammarwonderland', 'com.micchan.strawberrypad', 'com.microids.HdOv25.HdO3Musketeers.full', 'com.microids.HdOv25.HdOBonnieAndClyde.full', 'com.microids.HdOv25.HdOFrankenstein.full', 'com.microids.HdOv25.HdORomance.full', 'com.microids.HdOv25.HdOTreasureIsland.full', 'com.microids.HdOv25.HdOVampire.full', 'com.microids.HdOv3.HdOLesMiserables.full', 'com.microids.HdOv3.HdOLesMiserables2.full', 'com.movinapp.dict.denl', 'com.musicagames.dosolfa', 'com.natewren.linesdark', 'com.natewren.murderedout', 'com.nobu_games.android.hypernotes', 'com.onegravity.sudoku4ever.plus', 'com.optimesoftware.tictactoe.pro', 'com.orangepixel.chronocash', 'com.orangepixel.dungeon', 'com.orionsmason.ballerinapuzzles', 'com.orionsmason.christmaspuzzle', 'com.orionsmason.easterpuzzle', 'com.orionsmason.fairypuzzles', 'com.orionsmason.halloweenpuzzles2', 'com.orionsmason.petpuzzle', 'com.orionsmason.spacepuzzle', 'com.papoogames.animals', 'com.pazosoft.graphicCrossWord', 'com.perpixel.app.oceanruin', 'com.personalcloset.full', 'com.peterhohsy.C8051_tutorialpro', 'com.philippemarque.verbes_irreguliers_de', 'com.phonegap.guitdownNoAds', 'com.playcreek.DeathWorm', 'com.plumamazing.iwatermark', 'com.pmadelaine.btherm', 'com.pons.spellflash', 'com.ragecreations.freemason.lwp.full', 'com.rainbirth.zencolors', 'com.romanuhlig.twelveorbits', 'com.runtastic.android.heartrate.pro', 'com.runtastic.android.squats.pro', 'com.schimera.webdavnav', 'com.seekpi.drawthisdothat', 'com.sens.whisttinnitus', 'com.seyeonsoft.neobookmark', 'com.shadowinkdesigns.cryptozoology', 'com.shaun.emojilite_pro', 'com.shelter_droid.shelter', 'com.silverteam.shottimer200', 'com.skinnynote.android.gplay', 'com.skycode.atrance.enfr', 'com.skycode.atrance.enit', 'com.softmimo.android.sudoku', 'com.sogger.gmrnotifier', 'com.srapps.callrecall', 'com.stallware.dashdow.sms.plus', 'com.t11.skyview', 'com.tangram3D.Athletics2', 'com.thegamecreators.eduguruenglish5', 'com.theorytestukcar', 'com.thewordsearch.pro', 'com.tiltangames.seapuzzle', 'com.timegalore.headsupholdempoker', 'com.tinymission.dailycardioworkoutpaid', 'com.tmf.abcottdrm', 'com.topoflearning.best.vibering.medical.nursing.exam.review', 'com.topoflearning.best.vibering.usmle.test.bank.questions.secondset', 'com.trackthebird.medreminder', 'com.turtlerockstudios.garagebuddy', 'com.tutioncentral.jaiibpro', 'com.tvkdevelopment.nobloat', 'com.twopersonstudio.games.spiteandmalice', 'com.valorware.ninthdawnii', 'com.verbole.dcad.verbolerussian', 'com.vm.android.clockwork2', 'com.wilysis.cellinfo', 'com.xaleragames.connectdrawpro', 'com.xuecs.sqlitemanagerpro', 'com.yellowdroid.toddlerwordspro', 'com.zinkia.pocoyoclassic', 'cy6DfJVkoq4EGj7CZk3M.sandy', 'de.development.outline.marblemonster', 'de.miwi.personalcalendar', 'de.twayne.android.expertfantasyclock', 'fr.tokata.jimi.guitar', 'green.egear', 'handcare.superplux.handcare', 'hu.mep.pvcalc', 'info.solocrowd.lwfalllookup_paid', 'iqgames.sudoku', 'iqgames.sudoku2', 'iqgames.sudoku3', 'it.b77.pianomaster2', 'it.froggy.cucchiaino', 'joybits.doodlegod_hd', 'jp.co.minds_net.tagmemo', 'jp.tanyu.SmartAlarm', 'kfi.trip.log', 'knse.tangochosyncwithss', 'net.almancakelime.almancak.ga', 'net.karaapps.smsautoresponder', 'net.mrpear.vcardmanager', 'net.vela.vibering.educational.and.learning.application.cp.premium', 'net.xenotropic.quizznworldhist', 'nils.slideshow5000_pro', 'nl.hqmedia.quitsmokingbuddy', 'noblur.com.learncountingnumbers', 'org.artica.muu.igarafu', 'org.breezesoft.techoplus', 'org.freeandroidtools.root_checker_pro', 'org.kwitcherbitchen.powerless', 'ru.applct.trforall', 'ru.bastion7.springsakura.pro', 'ru.golgofa.decoypro', 'seer.computing.mysqlfunctions', 'siddur.sfaradi.pay', 'smpxg.crystallight', 'smpxg.jewelxmas', 'toyotascantool.lexusobd2.elm327.obd2.toyotaelm327.toyotasysscan.obdhightech.com.toyotasysscanpro', 'tw.com.bluemoon.baseboard', 'uk.co.aifactory.ginrummy', 'uk.co.aifactory.gomoku', 'uk.co.aifactory.moveit', 'uk.co.aifactory.solitaire', 'uk.co.aifactory.sudoku', 'uk.co.techmeology.chainreversi', 'viileetek.drivingDiaryA.namespace', 'vn.creativeapps.abworkout.pro', 'vn.creativeapps.pro.plank', 'vn.creativeapps.sexybutt.pro', 'zzs.notisysinfo.pro', 'com.blogspot.maxim_sheronov.sinus_live_wallpaper.pro', 'com.ebzits.learningburmese', 'com.jalsalabs.ticklemyphonefull', 'com.mindplanet.android.litelog', 'com.oruamsoft.megasena', 'com.oruamsoft.quina', 'com.RONAK.theme.Icephonewhite', 'com.sc2toolslab.sc2bmfull', 'jp.gr.java_conf.myoshii.android.soundrecc', 'at.ncn.antiviruspro2015', 'com.icecoldapps.photoeditorultimate', 'com.medialoha.android.monicar', 'com.startific.chameleon3dlwp', 'com.heybear.mathgridgooglepaid', 'com.pmadelaine.plb_utility', 'org.emmasgames.barnyardkidspuzzle', 'air.kanji', 'com.sympleza.grrudictionarypremium', 'com.a1.quiz.ieltsprep', 'com.mr.complete_biotech_dictionary', 'com.frozendragon.sceptrum.pay', 'com.yeoniyouni.news', 'appinventor.ai_fernando_ivan.como_esta_bebe', 'au.com.phil.abduction2', 'br.com.tibiadroid', 'clock3.GBB.org', 'com.afterhours.android.afterhours.full', 'com.alex.meditation', 'com.alex.pictures', 'com.alex.shinycolor', 'com.ammonite.cubeventure', 'com.ammonite.medievalcombat', 'com.appakabar.makanim', 'com.chess.master3dpro', 'com.dolphin.android.horariodetrabajopro', 'com.entercube.enqdrive.en', 'com.essential.usdriving.pro', 'com.glm.trainer', 'com.ispsoft.tplinkinstallerfull', 'com.james.ipholder', 'com.JC.time_clock', 'com.kedronic.memfruits', 'com.kvss.sd', 'com.laxitymedia.DirtRace', 'com.laxitymedia.DriftRace.full', 'com.laxitymedia.emojisrescue.full', 'com.movaudio.ecomposer', 'com.movinapp.dict.deit', 'com.movinapp.dict.detr', 'com.movinapp.dict.frnl', 'com.netpixel.showmygoal', 'com.noppoland.android.wazatimerpro', 'com.orangepixel.meganoid', 'com.overpass.dutchbubblebath', 'com.overpass.hungarianbubblebath', 'com.overpass.somalibubblebath', 'com.overpass.tagalogbb', 'com.ovogame.tropicalmania', 'com.primebitstudio.darktower', 'com.progimax.spray', 'com.spooksoft.musictrainer', 'com.thetisgames.googleplay.flightsimulator2016', 'com.timthefox.travel', 'com.troberg.alwayssms', 'com.tuneit.tuneit', 'com.visualit.zuti.washington', 'com.wieringsoftware.charlie_the_duck', 'com.zingmagic.chinesechessv', 'com.zinkia.pocoyo.colors', 'com.zinkia.pocoyo.numbers', 'de.jws.puzzlefull', 'es.vcode.musepad', 'it.ncaferra.pixelplayerpaid', 'jp.abt.lopnur.gearratiocalc', 'jp.favorite.calculator.calzo', 'jp.ne.asoft.android.uchorda', 'langame_es.rivex', 'langame_fr.rivex', 'langame_pl.rivex', 'langame_pt.rivex', 'net.zsoo.android.dma', 'nf.co.gefilter.simulado_oab', 'org.benditas.aagoyorubafull', 'ro.corado.loan.manager.pro', 'tc.engsoft.QA2', 'uk.co.knowles_online.raspberryssh', 'virtual.deck', 'l.werner.livewallpaper.hypnosistimepaid', 'marinsoft.EDZ', 'com.pineappledeveloper.cashit', 'com.proapplica.dietmasterapp', 'com.projectx.android.Scouter', 'rackoon.mucken', 'com.walex.gamecard.coinche', 'com.allentiumsoftware.happyhungry.android.pro', 'ru.yoga.yogapractika', 'com.i3wear.darkanalog', 'com.mr.complete_botany_dictionary', 'aqebidopu.prog.autoescuelaCarnetB', 'com.idteam.lwp.superwallpaper2016', 'ableton.knk.shortcuts', 'com.ullucus.fragmentsnoteasen', 'com.wordfind', 'com.bitbybitgames.mmamanager', 'com.rideon.sakaba_eng', 'com.sympleza.enesdictionarypremium', 'com.sympleza.enitdictionarypremium', 'com.sympleza.enswdictionarypremium', 'air.com.bloomingkids.DailyRoutineMatrix', 'air.com.rotorzone.rotorbalance', 'air.mobi.kidsacademy.gp.five.monkeys.hd', 'andrei.brusentcov.balda.pro', 'andrei.brusentcov.eye_exercises.pro', 'andrei.brusentcov.schoolcalculator.pro', 'b4a.bigemail', 'b4a.ecgrra', 'b4a.zephyrpro', 'br.com.chronoanalyzerpro', 'bt_control_pro.loedu.de.bluetoothcontrolpro', 'by.squareroot.kakuro.full', 'com.absolutist.foolcity', 'com.allinone.calculator', 'com.anahoret.android.shapes', 'com.appventions.atlas', 'com.autel.pro.spanish', 'com.autolauncher.motorcar', 'com.azbooks.meekamoo.eng.full', 'com.babbab_full', 'com.babysignandlearn.babysign', 'com.babysignandlearn.babysignandsing', 'com.bens.apps.ChampCalc.pro', 'com.bernware.ucvr', 'com.best.self.learning.apps.financial.accounting.test.bank', 'com.best.self.learning.apps.hvac.test.bank.exam.review', 'com.best.self.learning.apps.interpersonal.communication.skills', 'com.best.self.learning.apps.nurse.practitioner.exam.prep.review', 'com.best.self.learning.apps.physician.assistant.exam.preparation.panc', 'com.best.self.learning.apps.psychology.body.knowledge.encyclopedia', 'com.best.self.learning.apps.risk.management.exam.review', 'com.bigfishgames.enigmatisgooglefull', 'com.bigfishgames.llbwgoogfull', 'com.bigfishgames.mcffcgoogfull', 'com.brainium.freecell', 'com.brainium.solitaire', 'com.brochos.tizkor.sefira.full', 'com.buffstudio.onthehero', 'com.clbsystems.bombcodedefuser.paid', 'com.crazelle.app.todo', 'com.deltaphi.drumate', 'com.dingogames.tastyplanet1', 'com.doublecore.musicdropnplay', 'com.easeapps.islamicgreetingcards', 'com.easy8.cardshark', 'com.echohacks.echohacks', 'com.eggrollgames.animalmathgrade2paid', 'com.eggrollgames.askmecolorsshapes', 'com.eggrollgames.characterpuzzlefarmpaid', 'com.elky.likekids.it', 'com.firerabbit.games.overlive.unlocked', 'com.fyinc.multitimer', 'com.galakau.veloxfull', 'com.gameon.bubblebust2premium', 'com.gamesbypost.tilesbypost', 'com.gogiigames.mm1googfull', 'com.greekwinterproductions.westwarddystopia', 'com.herocraft.game.footlol', 'com.hg.dfwg', 'com.hg.dynamitefishing', 'com.hg.ninjaherocats', 'com.hssn.anatomy3d', 'com.idans.slowmo', 'com.imayi.dinodigger2', 'com.imayi.jurassicdig', 'com.imayi.monstertruckgo', 'com.ivanovichgames.wheresmygeek_premium', 'com.johnemulators.johngba', 'com.johnemulators.johngbc', 'com.kmcpesh.microbiologyantimicrobials', 'com.lambtongames.videopokerclassic', 'com.lescapadou.picturespelling', 'com.magicwach.rdefense', 'com.manoj.manojprabahar.mangata', 'com.medicalgroupsoft.medical.chemistryterminology.paid', 'com.medicalgroupsoft.medical.diseasesmkb.ger.paid', 'com.medicalgroupsoft.medical.drugsdictionary.paid', 'com.mike.virtualtrainer.pro', 'com.mm.trukey.app.full', 'com.mm.trurdp.full', 'com.morphonix.brainwave', 'com.naterop.freedivepro', 'com.nevosoft.christmasville', 'com.nevosoft.million', 'com.nevosoft.mushroomage', 'com.nevosoft.wonderlines', 'com.nightboost.kids.animals', 'com.noaa_weather.noaaweather', 'com.officephone.paid', 'com.omgpop.dstpaid', 'com.pearmobile.pearbible.asv', 'com.pearmobile.pearbible.kjv', 'com.pencilscribble.attendance_record', 'com.polusbooks.dssc.en', 'com.portable.timelapse', 'com.power20.momandbaby', 'com.power20.prenatal', 'com.protectstar.microguardprofessional', 'com.requestanapp.readingcomprehensionpaid', 'com.roonto.horror_paid', 'com.rootsfootballapp.app', 'com.samapp.backupsms.backsmspro', 'com.samapp.excelcontacts.excelcontactsfull', 'com.scicho.surface3dplot', 'com.sesiasoft.sport.misterteamfootball.pro', 'com.silvercrk.solitaire_iv', 'com.sitseducators.cprogrammingfacts', 'com.sitseducators.javaprogrammingfacts', 'com.slimcricket.petitesorciere', 'com.slimcricket.pipo', 'com.slimcricket.sorcieresansnom', 'com.softech.allbright.ANCC_Pro', 'com.softmedia.receiver', 'com.ssafitness.weightlossexercises', 'com.ssafitness.yogatoopeningpelvishd', 'com.stefanheine.sudoku.full.easy', 'com.stefanheine.sudoku.full.hard', 'com.teazel.crossword.cryptic.full', 'com.telbyte.pdf', 'com.think_android.apps.appmonster.cloud', 'com.topoflearning.best.medical.terminology.encyclopedia.science.dictionary', 'com.topoflearning.best.real.estate.definition.term.course', 'com.topoflearning.best.vibering.certified.applied.applied.Health.aptitude.test', 'com.topoflearning.best.vibering.registred.nurse.practitioner.np.arnp.exam', 'com.topoflearning.best.vibering.series7.finance.course.exam.review', 'com.twistago.android', 'com.upshft.upshiftprime', 'com.usa.evprecording.console', 'com.veitch.themelodymaster.pmp', 'com.vinhashapp.wifiportable.freewifihotspot', 'com.voiceplus', 'com.warlockstudio.armored.forces.world.war.full', 'com.withbuddies.dice', 'com.xoopsoft.apps.allsvenskanpro', 'com.xoopsoft.apps.argentinapro', 'com.xoopsoft.apps.australiapro', 'com.xoopsoft.apps.footballplus.germany.pro', 'com.xoopsoft.apps.footballplus.portugal.pro', 'com.xoopsoft.apps.segundaligapro', 'com.xoopsoft.apps.superligpro', 'com.zmileyapps.speedhack', 'de.wgr.vcapppremium34', 'dk.mochasoft.mochaping', 'gr.mobile.freemeteo.premium', 'imoblife.memorybooster.full', 'ipnossoft.rma.premium', 'jp.co.nsgd.nsdev.concentricmap', 'jp.hashisoft.race', 'live.full.photo.gps', 'no.henrikvs.trackloc', 'org.shlublu.android.netmonitor', 'pl.jumpapp.superhero.coloringbook.full', 'pro.holy.bible.king.james', 'reddit.news', 'tw.idv.max.tarot', 'wms.xoom2mespeakersfix', 'com.familygtg.app', 'com.fillinappenpro', 'com.mik61.catsoftheworldpremium', 'com.mik61.dogsoftheworldpremium', 'com.simplesoftwarestudio.prayerbook_en', 'com.complexsimulation.jigsawmathpuzzle', 'net.atamaswitch.nooote', 'air.com.touchmultimedia.comicpuppet', 'com.idtech.app.mydrums', 'nl.brightside.entoen.nu', 'com.ibeamsolver', 'com.kodarkooperativet.blackplayerex', 'com.chainsys.sevenkeysasthma', 'com.rollingfortress.wanderlust', 'uk.co.olilan.touchcalendar', 'ru.vsa.safenote', 'no.dontsayno.budgetmymoney', 'bruenor.magicbox', 'btc.constitucioncolombiana.nt', 'com.aquadroid.mix', 'com.doubleuinc.lovepositions', 'com.eryodsoft.android.cards.damedepique.full', 'com.gi.talkinggarfieldpremium', 'com.ik.torahptheb', 'com.kedronic.cbnchristmas', 'com.kedronic.dotsdinosaurs', 'com.manyquiz.programming.full', 'com.mssdevlab.shengencalculator', 'com.roei.oneclickcamerawidget', 'com.shine_research.babylon_pinball', 'com.trib.app.tectotrak', 'com.trib.app.trackandeventgps', 'com.undergroundcreative.footballchairmanpro', 'coolcoders.coolcamera', 'countdown.calendar', 'fr.telemaque.tarotsmarseille', 'it.rortos.hmsdestroyer', 'it.smh17.math.professional', 'it.suonoevita.apmtool2', 'jp.com.snow.clipboard', 'md.steuer.owncloud_gallery', 'my.wallets', 'se.brolinembedded.bulliontest', 'com.snyderss.theaswingpro', 'com.castreal.game.fezita', 'com.buenavistastudio.italiancooking', 'com.obdii_lqc.android.obdii.elm327.ecusimpro', 'com.vito.lux', 'com.milimacode.mccal', 'com.agentpp.android', 'ru.knnv.geometrycalc', 'cf.i_ya.chronograph', 'com.cognitial.directvremotepro', 'air.com.besta.englishnurseryrhymespro', 'air.com.bloomingkids.SubtractionUsingNumberLine', 'air.com.kglad.SpellingBug1stGradeWords', 'air.com.wegolf.gps', 'allen.carr', 'com.astro.dsoplannerbasic', 'com.best.self.learning.apps.foreign.service.officer.exam.prep', 'com.brainium.jumbline2', 'com.bytebolt.drumloops', 'com.cgollner.systemmonitor', 'com.digit.pmpexam', 'com.eslgamesplus.kinder2', 'com.jakyl.ssc', 'com.kevinbradford.games.secondgrade', 'com.kiwiwalks.witchspringlunaml', 'com.longint.lomag.warehousemanagementpay', 'com.manualhackergold', 'com.meditationoasis.sleepeasy', 'com.metosphere.music', 'com.mobi.android.quiz.bartenderquiz', 'com.mykhailovdovchenko.wfdca', 'com.neaststudios.procapture', 'com.neaststudios.superpano', 'com.nippt.amharicdictionary', 'com.nippt.kjv.bible', 'com.nippt.santa.bible', 'com.nippt.somalidictionary.pro', 'com.nippt.tagalog.bible', 'com.pocketglow.android.speakeasyfrench', 'com.pocketglow.android.speakeasyitalian', 'com.proactiveapp.womanlogbaby.pro', 'com.ratrodstudio.skateparty2', 'com.ratrodstudio.streetoutlaws', 'com.realbyteapps.moneya', 'com.sisow.hcvg.healthydiningguide', 'com.softcraft.vocabularybible', 'com.softmimo.android.calltimetracker', 'com.storytoys.Chuggington.Book1.Paid.GooglePlay', 'com.swotwords', 'com.tbig.playerpro', 'com.thinkyeah.privatespace', 'com.tivola.dogworld.dalmatian', 'com.tivola.fantasy.full', 'com.tss21.input.korean', 'com.welant.mockups', 'com.whirlscape.minuumkeyboard', 'com.wisdomlabs.vaccinationguidepro', 'com.wordpress.wisdomlab.antibiotictherapy', 'de.inforapid.knowledgebasebuilder.android', 'hwhzl.hlth.trk', 'ipcamsoft.com.ipcam', 'kemco.wws.eofa', 'paystub.paycheck.payroll.calculator.fullversion.pro', 'com.algorizk.windtunnel', 'com.papenmeier.wifibabymonitor', 'com.pocketglow.android.speakeasyukrainian', 'com.zamax.android.applist', 'au.com.collectmore.collectmore2', 'com.badur.mygedictionarypro', 'com.betapet.mobile.se.full', 'com.cyno.drawme', 'com.dna.lyricpad2.full', 'com.ferretking.sexdicepro', 'com.hydraulicpumps', 'com.kedronic.cbnanimals', 'com.onjara.weatherforecastuk', 'com.smartprojects.RAMOptimization', 'com.trans_code.android.droidscan', 'it.phosimgo', 'si.topapp.myscanspro', 'uk.co.samatkins.quickquote', 'com.myronalgebra', 'in.andante.MainActivity', 'com.ihanwel.nidrarelax.en', 'dk.mochasoft.telnet', 'com.qlapps.plinvoice', 'air.com.essig.spielplatzhd3', 'air.com.youdagames.gop2mobile', 'com.adrionics.android.adbmaster.installer', 'com.aliasworlds.kingdomchronicles.hd.full.google', 'com.arconyx.rosaryHDpremium', 'com.atistudios.mondly.vr.languages', 'com.azati.noteworks', 'com.battletac', 'com.beekeeper.databee', 'com.bigbluepixel.photomeasures', 'com.binibambini.Mini', 'com.bitknights.dict.engcro', 'com.byonetech.android.silencer', 'com.cloudworth.poland', 'com.cloudworth.sicily', 'com.danielviktorin.tramtycoon', 'com.datawaregames.coloringbook23', 'com.datawaregames.coloringbook27', 'com.datawaregames.stickerbook', 'com.datawaregames.stickerbook3', 'com.datawaregames.stickerbook4', 'com.dayglows.vivid.full', 'com.desertstormfront.android.full', 'com.fastemulator.gba', 'com.generalcoffee.fadeinmobile', 'com.icounttimer.android', 'com.ideeo.inadvanced', 'com.innovativelanguage.wordpower.russian', 'com.khymaera.android.listnote', 'com.knbmedia.findthemalldino', 'com.metalanguage.learndanish', 'com.metalanguage.learngerman', 'com.metalanguage.learngreek', 'com.metalanguage.learnhindi', 'com.metalanguage.learnitalian', 'com.MpFish.Knots', 'com.phanotek.xtremesoaring3d2', 'com.phanovatives.gunshipIII.vpaf', 'com.planeth.gstflphedminferno1', 'com.pocketglow.android.speakeasyrussian', 'com.pointclickgames.lostadventure', 'com.radio.laradiola.professional', 'com.roebot.paperrouteaid', 'com.rscompany.hisiwon', 'com.rt.acrosudoku', 'com.runloop.seconds', 'com.runtastic.android.mountainbike.pro', 'com.sg.ranaz.foodwaste', 'com.shredtraining.guitarmageddonpro', 'com.soundgraph.remoteplus.pro', 'com.stock2own.stockvalueanalyzerpro', 'com.stockmusicboutique.basscat', 'com.taptapstudio.dailyscripture', 'com.taptapstudio.dailystreams', 'com.taptapstudio.dailyword', 'com.tdfsoftware.fiv', 'com.tinymission.dailyyogapaid', 'com.tommo.tgpepp3', 'com.tritoninteractive.remuda', 'de.koloch.evaluator', 'org.naturemobile.fruits2pro', 'pl.idreams.pottery', 'se.maginteractive.rumble', 'com.helpfulware.flash_it_greek', 'com.tripitech.callbuffer24hpro', 'strategicalliance.examonline.cpabe', 'strategicalliance.examonline.pmp', 'com.eclipsedroid', 'balance.psiletronfull', 'binaryearth.handygps', 'com.bengigi.selfish', 'com.ibyteapps.joecharlie', 'com.tutotoons.app.ponysistershairsalon2.full', 'com.vialsoft.ifahrschultheorie', 'com.vialsoft.radarwarner', 'inc.com.youbo.invocationsquotidiennes.pro', 'br.com.neotab.appleiturainterativa', 'com.danielmedeiros.dwsim_calculator', 'com.gdc.android.yubisashi.jpfr', 'com.iu4apc.kx3companion', 'com.knipsoft.klaverjassen', 'com.maildroid.pro', 'com.ocstudio.essentialguardian', 'com.salik.myQuran', 'com.sogapps.cshymns', 'com.soundoasis.tinpro2', 'com.tk102_xexun', 'com.tutotoons.app.kittymeowmeowcityheroes.full', 'de.lutzclausnitzer.himmelsfuehrungen', 'de.lutzclausnitzer.himmelsfuehrungenen', 'ee.arws_apps.astrologyquiz', 'ee.arws_apps.chinese_astrology_quiz', 'in.blogspot.tmpbytak', 'org.naturemobile.dogs2pro', 'com.prosimulators.googleplay.proflightsimulator.paid', 'dgthien.english.crazyEnglish.vietnam', 'com.artifexmundi.eventide2.gp.full', 'com.artifexmundi.newera.gp.full', 'com.firstwaysoftware.tabletopicsrandomizer', 'com.handynorth.moneywise', 'com.sevensails.queensgarden2mobile', 'com.tsumanga.fairyclub', 'org.serasera.tononkira.spons', 'peacemaker.osteoalarm', 'eu.helloit.diyapp', 'com.kpraathul.gotrackpro', 'com.nchsoftware.tonegen', 'com.nissandatascan.ndatascaniii', 'com.peterfige.pocketsalsafestival.pro', 'pl.ayground.coloringbook2', 'teycode.kayra', 'com.codewai.fungipedia', 'com.slabapp.app', 'uk.co.encripta.encriptapro', 'com.austral.gpscartracker', 'com.bypn.android.app.coachpad.pro', 'com.ratana.sunsurveyor', 'com.snappyappz.ec', 'it.colucciweb.openvpn', 'net.cm3d.premium.uscitizenshiptest', 'slifkergames.com_poker_dealers_toolkit_pro', 'ch.erpsourcing.safari', 'com.beizoy.lolasworldpremium', 'com.mindboardapps.app.mbstd', 'montessori.cards.educational.games.for.toddlers.pro', 'com.droidcaddie.droidcaddie', 'bitsie.playmee.musicplayer.pro', 'com.mixvibes.crossdjapp', 'lrstudios.games.ego', 'com.flyingbusstudio.dreamingclock', 'de.snorek.freeapp.full', 'es.ganttdroidpro', 'gmin.app.reservations.ds', 'com.sensodroid.countscale', 'be.weeswegwijs.android.VerkeerBE', 'com.acupuncturemeridians.acupuncturemeridians3dfull', 'com.adveniosoftware.vhftrainer', 'com.androhelm.antivirus.pro.half', 'com.ascendo.android.dictionary.fr', 'com.ascendo.android.dictionary.it', 'com.atlaswearables.ionic.androidwear', 'com.cambridgeuseofenglish.fce', 'com.criticalthinking.mindbenders1', 'com.infomir.stalkertv', 'com.innovativelanguage.wordpower.chinesetraditional', 'com.innovativelanguage.wordpower.englishuk', 'com.innovativelanguage.wordpower.englishus', 'com.innovativelanguage.wordpower.french', 'com.innovativelanguage.wordpower.indonesian', 'com.innovativelanguage.wordpower.korean', 'com.innovativelanguage.wordpower.malay', 'com.innovativelanguage.wordpower.polish', 'com.innovativelanguage.wordpower.portuguese', 'com.innovativelanguage.wordpower.swahili', 'com.ksharkapps.filebrowser', 'com.mobisystems.mobiscannerpro', 'com.orbit.orbitsmarthome.pro', 'com.sevenbit.firearmenator', 'com.tactustherapy.vat', 'com.trap.petroleum.petrophysics', 'com.zz.betting.prosupertips.pro', 'geckocreativeworks.gemmorg.full', 'org.pseudolabs.musiclounge', 'psyberia.alpinequest.full', 'com.ekoheif.nephrology_advisor', 'com.faadooengineers.pro_basicelectricalfirstyear', 'com.faadooengineers.pro_environmentalengineering', 'com.faadooengineers.pro_mathsforengineers', 'com.faadooengineers.pro_physicsforengineers2', 'com.faadooengineers.pro_strengthofmaterials', 'com.faadooengineers.pro_theoryofmachines1']
+INFO:__main__:Read 897 lines
+INFO:__main__:Using geckodriver /home/ioreyes/Programming/auto-buy/geckodriver/geckodriver-linux64
+INFO:__main__:Using profile /tmp/tmpanda5ng0/webdriver-py-profilecopy
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.berkeleystreetcleaning.pro
+INFO:__main__:Clicking the first Buy button for com.berkeleystreetcleaning.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.berkeleystreetcleaning.pro
+INFO:__main__:Clicking the second Buy button for com.berkeleystreetcleaning.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.berkeleystreetcleaning.pro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.cronoscopium.cattareversi
+INFO:__main__:Clicking the first Buy button for com.cronoscopium.cattareversi
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.cronoscopium.cattareversi
+INFO:__main__:Clicking the second Buy button for com.cronoscopium.cattareversi
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.cronoscopium.cattareversi
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.ddentertainment.gamma_ball
+INFO:__main__:Clicking the first Buy button for com.ddentertainment.gamma_ball
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.ddentertainment.gamma_ball
+INFO:__main__:Clicking the second Buy button for com.ddentertainment.gamma_ball
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.ddentertainment.gamma_ball
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.defranoux.l2launcher_full
+INFO:__main__:Clicking the first Buy button for com.defranoux.l2launcher_full
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.defranoux.l2launcher_full
+INFO:__main__:Clicking the second Buy button for com.defranoux.l2launcher_full
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.defranoux.l2launcher_full
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.dg.gtd.plugin.pure
+INFO:__main__:Clicking the first Buy button for com.dg.gtd.plugin.pure
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.dg.gtd.plugin.pure
+INFO:__main__:Clicking the second Buy button for com.dg.gtd.plugin.pure
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.dg.gtd.plugin.pure
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.dimension14.publishertycoonpaid
+INFO:__main__:Clicking the first Buy button for com.dimension14.publishertycoonpaid
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.dimension14.publishertycoonpaid
+INFO:__main__:Clicking the second Buy button for com.dimension14.publishertycoonpaid
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.dimension14.publishertycoonpaid
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.dnnstudio.kid_prodigy
+INFO:__main__:Clicking the first Buy button for com.dnnstudio.kid_prodigy
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.dnnstudio.kid_prodigy
+INFO:__main__:Clicking the second Buy button for com.dnnstudio.kid_prodigy
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.dnnstudio.kid_prodigy
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.doninn.doninnaudiocutter
+INFO:__main__:Clicking the first Buy button for com.doninn.doninnaudiocutter
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.doninn.doninnaudiocutter
+INFO:__main__:Clicking the second Buy button for com.doninn.doninnaudiocutter
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.doninn.doninnaudiocutter
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.driftwood.wallpaper.alarm
+INFO:__main__:Clicking the first Buy button for com.driftwood.wallpaper.alarm
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.driftwood.wallpaper.alarm
+INFO:__main__:Clicking the second Buy button for com.driftwood.wallpaper.alarm
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.driftwood.wallpaper.alarm
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.driftwood.wallpaper.chinesezodiak
+INFO:__main__:Clicking the first Buy button for com.driftwood.wallpaper.chinesezodiak
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.driftwood.wallpaper.chinesezodiak
+INFO:__main__:Clicking the second Buy button for com.driftwood.wallpaper.chinesezodiak
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.driftwood.wallpaper.chinesezodiak
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.effigrity.ayurvedichomemedicine.paid
+INFO:__main__:Clicking the first Buy button for com.effigrity.ayurvedichomemedicine.paid
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.effigrity.ayurvedichomemedicine.paid
+INFO:__main__:Clicking the second Buy button for com.effigrity.ayurvedichomemedicine.paid
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.effigrity.ayurvedichomemedicine.paid
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.eightfloor.asian_riddles_3
+INFO:__main__:Clicking the first Buy button for com.eightfloor.asian_riddles_3
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.eightfloor.asian_riddles_3
+INFO:__main__:Clicking the second Buy button for com.eightfloor.asian_riddles_3
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.eightfloor.asian_riddles_3
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.eightfloor.sakuradaytwomahjong.paymium.googleplay
+INFO:__main__:Clicking the first Buy button for com.eightfloor.sakuradaytwomahjong.paymium.googleplay
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.eightfloor.sakuradaytwomahjong.paymium.googleplay
+INFO:__main__:Clicking the second Buy button for com.eightfloor.sakuradaytwomahjong.paymium.googleplay
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.eightfloor.sakuradaytwomahjong.paymium.googleplay
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.embu.pinouts
+INFO:__main__:Clicking the first Buy button for com.embu.pinouts
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.embu.pinouts
+INFO:__main__:Clicking the second Buy button for com.embu.pinouts
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.embu.pinouts
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.faadooengineers.pro_ae
+INFO:__main__:Clicking the first Buy button for com.faadooengineers.pro_ae
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.faadooengineers.pro_ae
+INFO:__main__:Clicking the second Buy button for com.faadooengineers.pro_ae
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.faadooengineers.pro_ae
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.famlinkup.stratego
+INFO:__main__:Clicking the first Buy button for com.famlinkup.stratego
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.famlinkup.stratego
+INFO:__main__:Clicking the second Buy button for com.famlinkup.stratego
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.famlinkup.stratego
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.fox.wallpaper.halloween
+INFO:__main__:Clicking the first Buy button for com.fox.wallpaper.halloween
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.fox.wallpaper.halloween
+INFO:__main__:Clicking the second Buy button for com.fox.wallpaper.halloween
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.fox.wallpaper.halloween
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.gadnell.lostmummy
+INFO:__main__:Clicking the first Buy button for com.gadnell.lostmummy
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.gadnell.lostmummy
+INFO:__main__:Clicking the second Buy button for com.gadnell.lostmummy
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.gadnell.lostmummy
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.gombosdev.creaturesofearth
+INFO:__main__:Clicking the first Buy button for com.gombosdev.creaturesofearth
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.gombosdev.creaturesofearth
+INFO:__main__:Clicking the second Buy button for com.gombosdev.creaturesofearth
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.gombosdev.creaturesofearth
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.igottadroid.vrlauncher
+INFO:__main__:Clicking the first Buy button for com.igottadroid.vrlauncher
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.igottadroid.vrlauncher
+INFO:__main__:Clicking the second Buy button for com.igottadroid.vrlauncher
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.igottadroid.vrlauncher
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.ima.android.expensemanager
+INFO:__main__:Clicking the first Buy button for com.ima.android.expensemanager
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.ima.android.expensemanager
+INFO:__main__:Clicking the second Buy button for com.ima.android.expensemanager
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.ima.android.expensemanager
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.IvanAF.ClimbAMIYP
+INFO:__main__:Clicking the first Buy button for com.IvanAF.ClimbAMIYP
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.IvanAF.ClimbAMIYP
+INFO:__main__:Clicking the second Buy button for com.IvanAF.ClimbAMIYP
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.IvanAF.ClimbAMIYP
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.joesdomain.dungeonnightmares
+INFO:__main__:Clicking the first Buy button for com.joesdomain.dungeonnightmares
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.joesdomain.dungeonnightmares
+INFO:__main__:Clicking the second Buy button for com.joesdomain.dungeonnightmares
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.joesdomain.dungeonnightmares
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.jonblackwell.todo
+INFO:__main__:Clicking the first Buy button for com.jonblackwell.todo
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.jonblackwell.todo
+INFO:__main__:Clicking the second Buy button for com.jonblackwell.todo
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.jonblackwell.todo
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Cooling down for 120 seconds
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.kidsgamesgalaxy.connectblocks
+INFO:__main__:Clicking the first Buy button for com.kidsgamesgalaxy.connectblocks
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.kidsgamesgalaxy.connectblocks
+INFO:__main__:Clicking the second Buy button for com.kidsgamesgalaxy.connectblocks
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.kidsgamesgalaxy.connectblocks
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.labs.onirux.seaaquariumlivepro
+INFO:__main__:Clicking the first Buy button for com.labs.onirux.seaaquariumlivepro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.labs.onirux.seaaquariumlivepro
+INFO:__main__:Clicking the second Buy button for com.labs.onirux.seaaquariumlivepro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.labs.onirux.seaaquariumlivepro
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.luckyme.notificationold
+INFO:__main__:Clicking the first Buy button for com.luckyme.notificationold
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.luckyme.notificationold
+INFO:__main__:Clicking the second Buy button for com.luckyme.notificationold
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.luckyme.notificationold
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.mancwebdesign.colourviewer.pro
+INFO:__main__:Clicking the first Buy button for com.mancwebdesign.colourviewer.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.mancwebdesign.colourviewer.pro
+INFO:__main__:Clicking the second Buy button for com.mancwebdesign.colourviewer.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.mancwebdesign.colourviewer.pro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.marijuana_gold_prox
+INFO:__main__:Clicking the first Buy button for com.marijuana_gold_prox
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.marijuana_gold_prox
+INFO:__main__:Clicking the second Buy button for com.marijuana_gold_prox
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.marijuana_gold_prox
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.mjdapp.wordwheel
+INFO:__main__:Clicking the first Buy button for com.mjdapp.wordwheel
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.mjdapp.wordwheel
+INFO:__main__:Clicking the second Buy button for com.mjdapp.wordwheel
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.mjdapp.wordwheel
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.mnocompany.awall
+INFO:__main__:Clicking the first Buy button for com.mnocompany.awall
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.mnocompany.awall
+INFO:__main__:Clicking the second Buy button for com.mnocompany.awall
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.mnocompany.awall
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.nostalgiaemulators.gbcfull
+INFO:__main__:Clicking the first Buy button for com.nostalgiaemulators.gbcfull
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.nostalgiaemulators.gbcfull
+INFO:__main__:Clicking the second Buy button for com.nostalgiaemulators.gbcfull
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.nostalgiaemulators.gbcfull
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.onetext.thompson
+INFO:__main__:Clicking the first Buy button for com.onetext.thompson
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.onetext.thompson
+INFO:__main__:Clicking the second Buy button for com.onetext.thompson
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.onetext.thompson
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.RexetStudio.TibersBox2
+INFO:__main__:Clicking the first Buy button for com.RexetStudio.TibersBox2
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.RexetStudio.TibersBox2
+INFO:__main__:Clicking the second Buy button for com.RexetStudio.TibersBox2
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.RexetStudio.TibersBox2
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.RockingPocketGames.iFishingFly
+INFO:__main__:Clicking the first Buy button for com.RockingPocketGames.iFishingFly
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.RockingPocketGames.iFishingFly
+INFO:__main__:Clicking the second Buy button for com.RockingPocketGames.iFishingFly
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.RockingPocketGames.iFishingFly
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.savee.battery.saver
+INFO:__main__:Clicking the first Buy button for com.savee.battery.saver
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.savee.battery.saver
+INFO:__main__:Clicking the second Buy button for com.savee.battery.saver
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.savee.battery.saver
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.semapplications.speedometerfull
+INFO:__main__:Clicking the first Buy button for com.semapplications.speedometerfull
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.semapplications.speedometerfull
+INFO:__main__:Clicking the second Buy button for com.semapplications.speedometerfull
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.semapplications.speedometerfull
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.skycode.atrance.deit
+INFO:__main__:Clicking the first Buy button for com.skycode.atrance.deit
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.skycode.atrance.deit
+INFO:__main__:Clicking the second Buy button for com.skycode.atrance.deit
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.skycode.atrance.deit
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.supergoodpixel.blackjack
+INFO:__main__:Clicking the first Buy button for com.supergoodpixel.blackjack
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.supergoodpixel.blackjack
+INFO:__main__:Clicking the second Buy button for com.supergoodpixel.blackjack
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.supergoodpixel.blackjack
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.tallmouse.livewallpaper.faraway.mmarine
+INFO:__main__:Clicking the first Buy button for com.tallmouse.livewallpaper.faraway.mmarine
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.tallmouse.livewallpaper.faraway.mmarine
+INFO:__main__:Clicking the second Buy button for com.tallmouse.livewallpaper.faraway.mmarine
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.tallmouse.livewallpaper.faraway.mmarine
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.tallmousegames.liveinkwallpaper
+INFO:__main__:Clicking the first Buy button for com.tallmousegames.liveinkwallpaper
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.tallmousegames.liveinkwallpaper
+INFO:__main__:Clicking the second Buy button for com.tallmousegames.liveinkwallpaper
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.tallmousegames.liveinkwallpaper
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.teragon.hexapole.pro
+INFO:__main__:Clicking the first Buy button for com.teragon.hexapole.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.teragon.hexapole.pro
+INFO:__main__:Clicking the second Buy button for com.teragon.hexapole.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.teragon.hexapole.pro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.vd.mathsformulapro
+INFO:__main__:Clicking the first Buy button for com.vd.mathsformulapro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.vd.mathsformulapro
+INFO:__main__:Clicking the second Buy button for com.vd.mathsformulapro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.vd.mathsformulapro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.venturecomm.namey
+INFO:__main__:Clicking the first Buy button for com.venturecomm.namey
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.venturecomm.namey
+INFO:__main__:Clicking the second Buy button for com.venturecomm.namey
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.venturecomm.namey
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.zdamusement.livewallaper.amazingforest
+INFO:__main__:Clicking the first Buy button for com.zdamusement.livewallaper.amazingforest
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.zdamusement.livewallaper.amazingforest
+INFO:__main__:Clicking the second Buy button for com.zdamusement.livewallaper.amazingforest
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.zdamusement.livewallaper.amazingforest
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=cz.rychtar.android.quickcall
+INFO:__main__:Clicking the first Buy button for cz.rychtar.android.quickcall
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for cz.rychtar.android.quickcall
+INFO:__main__:Clicking the second Buy button for cz.rychtar.android.quickcall
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying cz.rychtar.android.quickcall
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=de.fk.android.pushy
+INFO:__main__:Clicking the first Buy button for de.fk.android.pushy
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for de.fk.android.pushy
+INFO:__main__:Clicking the second Buy button for de.fk.android.pushy
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying de.fk.android.pushy
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=de.hms.xconstructionfull
+INFO:__main__:Clicking the first Buy button for de.hms.xconstructionfull
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for de.hms.xconstructionfull
+INFO:__main__:Clicking the second Buy button for de.hms.xconstructionfull
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying de.hms.xconstructionfull
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=de.topobyte.apps.offline.stadtplan.stuttgart
+INFO:__main__:Clicking the first Buy button for de.topobyte.apps.offline.stadtplan.stuttgart
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for de.topobyte.apps.offline.stadtplan.stuttgart
+INFO:__main__:Clicking the second Buy button for de.topobyte.apps.offline.stadtplan.stuttgart
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying de.topobyte.apps.offline.stadtplan.stuttgart
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Cooling down for 120 seconds
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=de.zorillasoft.musicfolderplayer.donate
+INFO:__main__:Clicking the first Buy button for de.zorillasoft.musicfolderplayer.donate
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for de.zorillasoft.musicfolderplayer.donate
+INFO:__main__:Clicking the second Buy button for de.zorillasoft.musicfolderplayer.donate
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying de.zorillasoft.musicfolderplayer.donate
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=eu.foxjunior.simplecleanwatchface
+INFO:__main__:Clicking the first Buy button for eu.foxjunior.simplecleanwatchface
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for eu.foxjunior.simplecleanwatchface
+INFO:__main__:Clicking the second Buy button for eu.foxjunior.simplecleanwatchface
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying eu.foxjunior.simplecleanwatchface
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=ig.Indice_pro
+INFO:__main__:Clicking the first Buy button for ig.Indice_pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for ig.Indice_pro
+INFO:__main__:Clicking the second Buy button for ig.Indice_pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying ig.Indice_pro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=jp.ogawa.hideki.driveinfo
+INFO:__main__:Clicking the first Buy button for jp.ogawa.hideki.driveinfo
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for jp.ogawa.hideki.driveinfo
+INFO:__main__:Clicking the second Buy button for jp.ogawa.hideki.driveinfo
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying jp.ogawa.hideki.driveinfo
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=jp.pascal.fishing
+INFO:__main__:Clicking the first Buy button for jp.pascal.fishing
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for jp.pascal.fishing
+INFO:__main__:Clicking the second Buy button for jp.pascal.fishing
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying jp.pascal.fishing
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=kunalksj.christmastime
+INFO:__main__:Clicking the first Buy button for kunalksj.christmastime
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for kunalksj.christmastime
+INFO:__main__:Clicking the second Buy button for kunalksj.christmastime
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying kunalksj.christmastime
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=me.manabreak.bandit.paid
+INFO:__main__:Clicking the first Buy button for me.manabreak.bandit.paid
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for me.manabreak.bandit.paid
+INFO:__main__:Clicking the second Buy button for me.manabreak.bandit.paid
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying me.manabreak.bandit.paid
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=mem.rivex
+INFO:__main__:Clicking the first Buy button for mem.rivex
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for mem.rivex
+INFO:__main__:Clicking the second Buy button for mem.rivex
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying mem.rivex
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=nikisoft.apps.shiftsmanager
+INFO:__main__:Clicking the first Buy button for nikisoft.apps.shiftsmanager
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for nikisoft.apps.shiftsmanager
+INFO:__main__:Clicking the second Buy button for nikisoft.apps.shiftsmanager
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying nikisoft.apps.shiftsmanager
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=officeeyessaver.com
+INFO:__main__:Clicking the first Buy button for officeeyessaver.com
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for officeeyessaver.com
+INFO:__main__:Clicking the second Buy button for officeeyessaver.com
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying officeeyessaver.com
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=org.palmsoft.komponistpro
+INFO:__main__:Clicking the first Buy button for org.palmsoft.komponistpro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for org.palmsoft.komponistpro
+INFO:__main__:Clicking the second Buy button for org.palmsoft.komponistpro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying org.palmsoft.komponistpro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=pl.netigen.bestclassicguitar
+INFO:__main__:Clicking the first Buy button for pl.netigen.bestclassicguitar
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for pl.netigen.bestclassicguitar
+INFO:__main__:Clicking the second Buy button for pl.netigen.bestclassicguitar
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying pl.netigen.bestclassicguitar
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=praksto.com.callbckpay
+INFO:__main__:Clicking the first Buy button for praksto.com.callbckpay
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for praksto.com.callbckpay
+INFO:__main__:Clicking the second Buy button for praksto.com.callbckpay
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying praksto.com.callbckpay
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=ru.ag38.backgroundsoundrecorder
+INFO:__main__:Clicking the first Buy button for ru.ag38.backgroundsoundrecorder
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for ru.ag38.backgroundsoundrecorder
+INFO:__main__:Clicking the second Buy button for ru.ag38.backgroundsoundrecorder
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying ru.ag38.backgroundsoundrecorder
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=ru.comp.rusnshphrpro
+INFO:__main__:Clicking the first Buy button for ru.comp.rusnshphrpro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for ru.comp.rusnshphrpro
+INFO:__main__:Clicking the second Buy button for ru.comp.rusnshphrpro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying ru.comp.rusnshphrpro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=ru.eroge.wintertale
+INFO:__main__:Clicking the first Buy button for ru.eroge.wintertale
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for ru.eroge.wintertale
+INFO:__main__:Clicking the second Buy button for ru.eroge.wintertale
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying ru.eroge.wintertale
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=se.creativeai.reversi.full
+INFO:__main__:Clicking the first Buy button for se.creativeai.reversi.full
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for se.creativeai.reversi.full
+INFO:__main__:Clicking the second Buy button for se.creativeai.reversi.full
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying se.creativeai.reversi.full
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=sk.host.ebitt.cal2full
+INFO:__main__:Clicking the first Buy button for sk.host.ebitt.cal2full
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for sk.host.ebitt.cal2full
+INFO:__main__:Clicking the second Buy button for sk.host.ebitt.cal2full
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying sk.host.ebitt.cal2full
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=smpxg.egggz
+INFO:__main__:Clicking the first Buy button for smpxg.egggz
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for smpxg.egggz
+INFO:__main__:Clicking the second Buy button for smpxg.egggz
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying smpxg.egggz
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=tc.engsoft.memoocean
+INFO:__main__:Clicking the first Buy button for tc.engsoft.memoocean
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for tc.engsoft.memoocean
+INFO:__main__:Clicking the second Buy button for tc.engsoft.memoocean
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying tc.engsoft.memoocean
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=uk.me.dmi.android.barclone
+INFO:__main__:Clicking the first Buy button for uk.me.dmi.android.barclone
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for uk.me.dmi.android.barclone
+INFO:__main__:Clicking the second Buy button for uk.me.dmi.android.barclone
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying uk.me.dmi.android.barclone
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=vn.creativeapps.pro.lunge
+INFO:__main__:Clicking the first Buy button for vn.creativeapps.pro.lunge
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for vn.creativeapps.pro.lunge
+INFO:__main__:Clicking the second Buy button for vn.creativeapps.pro.lunge
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying vn.creativeapps.pro.lunge
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=wa.supertilesmash.pro
+INFO:__main__:Clicking the first Buy button for wa.supertilesmash.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for wa.supertilesmash.pro
+INFO:__main__:Clicking the second Buy button for wa.supertilesmash.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying wa.supertilesmash.pro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=app.vovan.scarfes1
+INFO:__main__:Clicking the first Buy button for app.vovan.scarfes1
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for app.vovan.scarfes1
+INFO:__main__:Clicking the second Buy button for app.vovan.scarfes1
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying app.vovan.scarfes1
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.altlimit.livebatterypaid
+INFO:__main__:Clicking the first Buy button for com.altlimit.livebatterypaid
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.altlimit.livebatterypaid
+INFO:__main__:Clicking the second Buy button for com.altlimit.livebatterypaid
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.altlimit.livebatterypaid
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Cooling down for 120 seconds
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.grantojanen.charactercodechampion
+INFO:__main__:Clicking the first Buy button for com.grantojanen.charactercodechampion
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.grantojanen.charactercodechampion
+INFO:__main__:Clicking the second Buy button for com.grantojanen.charactercodechampion
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.grantojanen.charactercodechampion
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.octoroid.komadori
+INFO:__main__:Clicking the first Buy button for com.octoroid.komadori
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.octoroid.komadori
+INFO:__main__:Clicking the second Buy button for com.octoroid.komadori
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.octoroid.komadori
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.phoseducation.wordcollector2
+INFO:__main__:Clicking the first Buy button for com.phoseducation.wordcollector2
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.phoseducation.wordcollector2
+INFO:__main__:Clicking the second Buy button for com.phoseducation.wordcollector2
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.phoseducation.wordcollector2
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.suvi.autocon
+INFO:__main__:Clicking the first Buy button for com.suvi.autocon
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.suvi.autocon
+INFO:__main__:Clicking the second Buy button for com.suvi.autocon
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.suvi.autocon
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=org.nattou.senga
+INFO:__main__:Clicking the first Buy button for org.nattou.senga
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for org.nattou.senga
+INFO:__main__:Clicking the second Buy button for org.nattou.senga
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying org.nattou.senga
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=deepbluemedia.iquit
+INFO:__main__:Clicking the first Buy button for deepbluemedia.iquit
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for deepbluemedia.iquit
+INFO:__main__:Clicking the second Buy button for deepbluemedia.iquit
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying deepbluemedia.iquit
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.liquidplayer
+INFO:__main__:Clicking the first Buy button for com.liquidplayer
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.liquidplayer
+INFO:__main__:Clicking the second Buy button for com.liquidplayer
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.liquidplayer
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.j5.android.locationreminder.pro
+INFO:__main__:Clicking the first Buy button for com.j5.android.locationreminder.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.j5.android.locationreminder.pro
+INFO:__main__:Clicking the second Buy button for com.j5.android.locationreminder.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.j5.android.locationreminder.pro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.binteraktive.dgafull
+INFO:__main__:Clicking the first Buy button for com.binteraktive.dgafull
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.binteraktive.dgafull
+INFO:__main__:Clicking the second Buy button for com.binteraktive.dgafull
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.binteraktive.dgafull
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.glaucopercopo.app.electricguitarpro
+INFO:__main__:Clicking the first Buy button for com.glaucopercopo.app.electricguitarpro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.glaucopercopo.app.electricguitarpro
+INFO:__main__:Clicking the second Buy button for com.glaucopercopo.app.electricguitarpro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.glaucopercopo.app.electricguitarpro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.jobspeopledo.english
+INFO:__main__:Clicking the first Buy button for com.jobspeopledo.english
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.jobspeopledo.english
+INFO:__main__:Clicking the second Buy button for com.jobspeopledo.english
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.jobspeopledo.english
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=de.mmeisenbahn.mmrailway_pro
+INFO:__main__:Clicking the first Buy button for de.mmeisenbahn.mmrailway_pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for de.mmeisenbahn.mmrailway_pro
+INFO:__main__:Clicking the second Buy button for de.mmeisenbahn.mmrailway_pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying de.mmeisenbahn.mmrailway_pro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.leen.wallpaper.fantasticnature
+INFO:__main__:Clicking the first Buy button for com.leen.wallpaper.fantasticnature
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.leen.wallpaper.fantasticnature
+INFO:__main__:Clicking the second Buy button for com.leen.wallpaper.fantasticnature
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.leen.wallpaper.fantasticnature
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.leen.wallpaper.misteriousisland
+INFO:__main__:Clicking the first Buy button for com.leen.wallpaper.misteriousisland
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.leen.wallpaper.misteriousisland
+INFO:__main__:Clicking the second Buy button for com.leen.wallpaper.misteriousisland
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.leen.wallpaper.misteriousisland
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.uppbridge.vrstarelude
+INFO:__main__:Clicking the first Buy button for com.uppbridge.vrstarelude
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.uppbridge.vrstarelude
+INFO:__main__:Clicking the second Buy button for com.uppbridge.vrstarelude
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.uppbridge.vrstarelude
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=name.okuhara.boobyreversi.full
+INFO:__main__:Clicking the first Buy button for name.okuhara.boobyreversi.full
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for name.okuhara.boobyreversi.full
+INFO:__main__:Clicking the second Buy button for name.okuhara.boobyreversi.full
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying name.okuhara.boobyreversi.full
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=it.ondaerre.tria_ebook.cicerone1
+INFO:__main__:Clicking the first Buy button for it.ondaerre.tria_ebook.cicerone1
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for it.ondaerre.tria_ebook.cicerone1
+INFO:__main__:Clicking the second Buy button for it.ondaerre.tria_ebook.cicerone1
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying it.ondaerre.tria_ebook.cicerone1
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=yo.app
+INFO:__main__:Clicking the first Buy button for yo.app
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for yo.app
+INFO:__main__:Clicking the second Buy button for yo.app
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying yo.app
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.lobolopez.mybikelog
+INFO:__main__:Clicking the first Buy button for com.lobolopez.mybikelog
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.lobolopez.mybikelog
+INFO:__main__:Clicking the second Buy button for com.lobolopez.mybikelog
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.lobolopez.mybikelog
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=de.amberhome.weather2
+INFO:__main__:Clicking the first Buy button for de.amberhome.weather2
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for de.amberhome.weather2
+INFO:__main__:Clicking the second Buy button for de.amberhome.weather2
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying de.amberhome.weather2
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=jp.co.nihon_e.kidsrestaurant
+INFO:__main__:Clicking the first Buy button for jp.co.nihon_e.kidsrestaurant
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for jp.co.nihon_e.kidsrestaurant
+INFO:__main__:Clicking the second Buy button for jp.co.nihon_e.kidsrestaurant
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying jp.co.nihon_e.kidsrestaurant
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.glups.newsyview
+INFO:__main__:Clicking the first Buy button for com.glups.newsyview
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.glups.newsyview
+INFO:__main__:Clicking the second Buy button for com.glups.newsyview
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.glups.newsyview
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.heybear.atoz
+INFO:__main__:Clicking the first Buy button for com.heybear.atoz
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.heybear.atoz
+INFO:__main__:Clicking the second Buy button for com.heybear.atoz
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.heybear.atoz
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.heybear.babyview
+INFO:__main__:Clicking the first Buy button for com.heybear.babyview
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.heybear.babyview
+INFO:__main__:Clicking the second Buy button for com.heybear.babyview
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.heybear.babyview
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=me.nigauri.reviewkun.advance
+INFO:__main__:Clicking the first Buy button for me.nigauri.reviewkun.advance
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for me.nigauri.reviewkun.advance
+INFO:__main__:Clicking the second Buy button for me.nigauri.reviewkun.advance
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying me.nigauri.reviewkun.advance
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Cooling down for 120 seconds
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=org.streetdrugs.cocaine
+INFO:__main__:Clicking the first Buy button for org.streetdrugs.cocaine
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for org.streetdrugs.cocaine
+INFO:__main__:Clicking the second Buy button for org.streetdrugs.cocaine
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying org.streetdrugs.cocaine
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=app.free.dictionaryen_lao_pro
+INFO:__main__:Clicking the first Buy button for app.free.dictionaryen_lao_pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for app.free.dictionaryen_lao_pro
+INFO:__main__:Clicking the second Buy button for app.free.dictionaryen_lao_pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying app.free.dictionaryen_lao_pro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=app.free.dictionaryen_ma_pro
+INFO:__main__:Clicking the first Buy button for app.free.dictionaryen_ma_pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for app.free.dictionaryen_ma_pro
+INFO:__main__:Clicking the second Buy button for app.free.dictionaryen_ma_pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying app.free.dictionaryen_ma_pro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.hogdex.photofraudpaid
+INFO:__main__:Clicking the first Buy button for com.hogdex.photofraudpaid
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.hogdex.photofraudpaid
+INFO:__main__:Clicking the second Buy button for com.hogdex.photofraudpaid
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.hogdex.photofraudpaid
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.novelanswer.statisticalqualitycontrol
+INFO:__main__:Clicking the first Buy button for com.novelanswer.statisticalqualitycontrol
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.novelanswer.statisticalqualitycontrol
+INFO:__main__:Clicking the second Buy button for com.novelanswer.statisticalqualitycontrol
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.novelanswer.statisticalqualitycontrol
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=jp.idl.helitrainer
+INFO:__main__:Clicking the first Buy button for jp.idl.helitrainer
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for jp.idl.helitrainer
+INFO:__main__:Clicking the second Buy button for jp.idl.helitrainer
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying jp.idl.helitrainer
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.allmax.al
+INFO:__main__:Clicking the first Buy button for com.allmax.al
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.allmax.al
+INFO:__main__:Clicking the second Buy button for com.allmax.al
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.allmax.al
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.amapps.android.PowerIP
+INFO:__main__:Clicking the first Buy button for com.amapps.android.PowerIP
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.amapps.android.PowerIP
+INFO:__main__:Clicking the second Buy button for com.amapps.android.PowerIP
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.amapps.android.PowerIP
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.kokufu.android.apps.sqliteviewer
+INFO:__main__:Clicking the first Buy button for com.kokufu.android.apps.sqliteviewer
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.kokufu.android.apps.sqliteviewer
+INFO:__main__:Clicking the second Buy button for com.kokufu.android.apps.sqliteviewer
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.kokufu.android.apps.sqliteviewer
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=air.com.animangaplus.bdcf03
+INFO:__main__:Clicking the first Buy button for air.com.animangaplus.bdcf03
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for air.com.animangaplus.bdcf03
+INFO:__main__:Clicking the second Buy button for air.com.animangaplus.bdcf03
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying air.com.animangaplus.bdcf03
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=air.com.animangaplus.bdfb02
+INFO:__main__:Clicking the first Buy button for air.com.animangaplus.bdfb02
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for air.com.animangaplus.bdfb02
+INFO:__main__:Clicking the second Buy button for air.com.animangaplus.bdfb02
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying air.com.animangaplus.bdfb02
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=air.com.animangaplus.bdfb03
+INFO:__main__:Clicking the first Buy button for air.com.animangaplus.bdfb03
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for air.com.animangaplus.bdfb03
+INFO:__main__:Clicking the second Buy button for air.com.animangaplus.bdfb03
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying air.com.animangaplus.bdfb03
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=air.com.killerbytesgames.hoppinjalapenos
+INFO:__main__:Clicking the first Buy button for air.com.killerbytesgames.hoppinjalapenos
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for air.com.killerbytesgames.hoppinjalapenos
+INFO:__main__:Clicking the second Buy button for air.com.killerbytesgames.hoppinjalapenos
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying air.com.killerbytesgames.hoppinjalapenos
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=air.com.tutotoons.app.powergirlssupercity.full
+INFO:__main__:Clicking the first Buy button for air.com.tutotoons.app.powergirlssupercity.full
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for air.com.tutotoons.app.powergirlssupercity.full
+INFO:__main__:Clicking the second Buy button for air.com.tutotoons.app.powergirlssupercity.full
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying air.com.tutotoons.app.powergirlssupercity.full
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=air.cz.cfc.androidgp.AnimatedPuzzle
+INFO:__main__:Clicking the first Buy button for air.cz.cfc.androidgp.AnimatedPuzzle
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for air.cz.cfc.androidgp.AnimatedPuzzle
+INFO:__main__:Clicking the second Buy button for air.cz.cfc.androidgp.AnimatedPuzzle
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying air.cz.cfc.androidgp.AnimatedPuzzle
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=air.junglemusic
+INFO:__main__:Clicking the first Buy button for air.junglemusic
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for air.junglemusic
+INFO:__main__:Clicking the second Buy button for air.junglemusic
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying air.junglemusic
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=air.pixelo
+INFO:__main__:Clicking the first Buy button for air.pixelo
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for air.pixelo
+INFO:__main__:Clicking the second Buy button for air.pixelo
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying air.pixelo
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=apricoworks.android.wallpaper.flowerflowalarm
+INFO:__main__:Clicking the first Buy button for apricoworks.android.wallpaper.flowerflowalarm
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for apricoworks.android.wallpaper.flowerflowalarm
+INFO:__main__:Clicking the second Buy button for apricoworks.android.wallpaper.flowerflowalarm
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying apricoworks.android.wallpaper.flowerflowalarm
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=apricoworks.android.wallpaper.loveflow
+INFO:__main__:Clicking the first Buy button for apricoworks.android.wallpaper.loveflow
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for apricoworks.android.wallpaper.loveflow
+INFO:__main__:Clicking the second Buy button for apricoworks.android.wallpaper.loveflow
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying apricoworks.android.wallpaper.loveflow
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=apricoworks.android.wallpaper.otometokei
+INFO:__main__:Clicking the first Buy button for apricoworks.android.wallpaper.otometokei
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for apricoworks.android.wallpaper.otometokei
+INFO:__main__:Clicking the second Buy button for apricoworks.android.wallpaper.otometokei
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying apricoworks.android.wallpaper.otometokei
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=au.com.twentytwopoint.rapitap
+INFO:__main__:Clicking the first Buy button for au.com.twentytwopoint.rapitap
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for au.com.twentytwopoint.rapitap
+INFO:__main__:Clicking the second Buy button for au.com.twentytwopoint.rapitap
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying au.com.twentytwopoint.rapitap
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=ca.cedarandriver.android.abc
+INFO:__main__:Clicking the first Buy button for ca.cedarandriver.android.abc
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for ca.cedarandriver.android.abc
+INFO:__main__:Clicking the second Buy button for ca.cedarandriver.android.abc
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying ca.cedarandriver.android.abc
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.acs.galaxylwp.pro
+INFO:__main__:Clicking the first Buy button for com.acs.galaxylwp.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.acs.galaxylwp.pro
+INFO:__main__:Clicking the second Buy button for com.acs.galaxylwp.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.acs.galaxylwp.pro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.acs.plastaquariumlwp.premium
+INFO:__main__:Clicking the first Buy button for com.acs.plastaquariumlwp.premium
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.acs.plastaquariumlwp.premium
+INFO:__main__:Clicking the second Buy button for com.acs.plastaquariumlwp.premium
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.acs.plastaquariumlwp.premium
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.acs.winterlwp.pro
+INFO:__main__:Clicking the first Buy button for com.acs.winterlwp.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.acs.winterlwp.pro
+INFO:__main__:Clicking the second Buy button for com.acs.winterlwp.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.acs.winterlwp.pro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Cooling down for 120 seconds
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.aeroware.androbearing
+INFO:__main__:Clicking the first Buy button for com.aeroware.androbearing
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.aeroware.androbearing
+INFO:__main__:Clicking the second Buy button for com.aeroware.androbearing
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.aeroware.androbearing
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.aikidroid.aikidofifthkyudonate
+INFO:__main__:Clicking the first Buy button for com.aikidroid.aikidofifthkyudonate
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.aikidroid.aikidofifthkyudonate
+INFO:__main__:Clicking the second Buy button for com.aikidroid.aikidofifthkyudonate
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.aikidroid.aikidofifthkyudonate
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.alliumsystems.klondikesolitaire
+INFO:__main__:Clicking the first Buy button for com.alliumsystems.klondikesolitaire
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.alliumsystems.klondikesolitaire
+INFO:__main__:Clicking the second Buy button for com.alliumsystems.klondikesolitaire
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.alliumsystems.klondikesolitaire
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.apofiss.littleowl
+INFO:__main__:Clicking the first Buy button for com.apofiss.littleowl
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.apofiss.littleowl
+INFO:__main__:Clicking the second Buy button for com.apofiss.littleowl
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.apofiss.littleowl
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.arent.myfirstdrawings
+INFO:__main__:Clicking the first Buy button for com.arent.myfirstdrawings
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.arent.myfirstdrawings
+INFO:__main__:Clicking the second Buy button for com.arent.myfirstdrawings
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.arent.myfirstdrawings
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.arent.myfirsttangrams
+INFO:__main__:Clicking the first Buy button for com.arent.myfirsttangrams
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.arent.myfirsttangrams
+INFO:__main__:Clicking the second Buy button for com.arent.myfirsttangrams
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.arent.myfirsttangrams
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.astrovicapp.bigdays
+INFO:__main__:Clicking the first Buy button for com.astrovicapp.bigdays
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.astrovicapp.bigdays
+INFO:__main__:Clicking the second Buy button for com.astrovicapp.bigdays
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.astrovicapp.bigdays
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.axlsofts.budget.full
+INFO:__main__:Clicking the first Buy button for com.axlsofts.budget.full
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.axlsofts.budget.full
+INFO:__main__:Clicking the second Buy button for com.axlsofts.budget.full
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.axlsofts.budget.full
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.bagelboysoftware.bbdenaltpro
+INFO:__main__:Clicking the first Buy button for com.bagelboysoftware.bbdenaltpro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.bagelboysoftware.bbdenaltpro
+INFO:__main__:Clicking the second Buy button for com.bagelboysoftware.bbdenaltpro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.bagelboysoftware.bbdenaltpro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.baijiahu.calllogwidget.paid
+INFO:__main__:Clicking the first Buy button for com.baijiahu.calllogwidget.paid
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.baijiahu.calllogwidget.paid
+INFO:__main__:Clicking the second Buy button for com.baijiahu.calllogwidget.paid
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.baijiahu.calllogwidget.paid
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.beattheodds.daily3
+INFO:__main__:Clicking the first Buy button for com.beattheodds.daily3
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.beattheodds.daily3
+INFO:__main__:Clicking the second Buy button for com.beattheodds.daily3
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.beattheodds.daily3
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.beiz.lolabeachpuzzle
+INFO:__main__:Clicking the first Buy button for com.beiz.lolabeachpuzzle
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.beiz.lolabeachpuzzle
+INFO:__main__:Clicking the second Buy button for com.beiz.lolabeachpuzzle
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.beiz.lolabeachpuzzle
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.bertrandinterface.videoreaderplus
+INFO:__main__:Clicking the first Buy button for com.bertrandinterface.videoreaderplus
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.bertrandinterface.videoreaderplus
+INFO:__main__:Clicking the second Buy button for com.bertrandinterface.videoreaderplus
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.bertrandinterface.videoreaderplus
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.bibleofmanycolors.rhett
+INFO:__main__:Clicking the first Buy button for com.bibleofmanycolors.rhett
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.bibleofmanycolors.rhett
+INFO:__main__:Clicking the second Buy button for com.bibleofmanycolors.rhett
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.bibleofmanycolors.rhett
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.blazingbyte.jellyfish
+INFO:__main__:Clicking the first Buy button for com.blazingbyte.jellyfish
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.blazingbyte.jellyfish
+INFO:__main__:Clicking the second Buy button for com.blazingbyte.jellyfish
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.blazingbyte.jellyfish
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.bloodhoundstudios.gridinfect
+INFO:__main__:Clicking the first Buy button for com.bloodhoundstudios.gridinfect
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.bloodhoundstudios.gridinfect
+INFO:__main__:Clicking the second Buy button for com.bloodhoundstudios.gridinfect
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.bloodhoundstudios.gridinfect
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.brightson.soft.knowledge.EKG_Pro
+INFO:__main__:Clicking the first Buy button for com.brightson.soft.knowledge.EKG_Pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.brightson.soft.knowledge.EKG_Pro
+INFO:__main__:Clicking the second Buy button for com.brightson.soft.knowledge.EKG_Pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.brightson.soft.knowledge.EKG_Pro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.clbsystems.superiortipcalculator.paid
+INFO:__main__:Clicking the first Buy button for com.clbsystems.superiortipcalculator.paid
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.clbsystems.superiortipcalculator.paid
+INFO:__main__:Clicking the second Buy button for com.clbsystems.superiortipcalculator.paid
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.clbsystems.superiortipcalculator.paid
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.clockworkpixels.vampireventures
+INFO:__main__:Clicking the first Buy button for com.clockworkpixels.vampireventures
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.clockworkpixels.vampireventures
+INFO:__main__:Clicking the second Buy button for com.clockworkpixels.vampireventures
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.clockworkpixels.vampireventures
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.codesector.speedview.pro
+INFO:__main__:Clicking the first Buy button for com.codesector.speedview.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.codesector.speedview.pro
+INFO:__main__:Clicking the second Buy button for com.codesector.speedview.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.codesector.speedview.pro
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.creaturecorp.princesscashregisterfull
+INFO:__main__:Clicking the first Buy button for com.creaturecorp.princesscashregisterfull
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.creaturecorp.princesscashregisterfull
+INFO:__main__:Clicking the second Buy button for com.creaturecorp.princesscashregisterfull
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.creaturecorp.princesscashregisterfull
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.cyancanyon.blasted
+INFO:__main__:Clicking the first Buy button for com.cyancanyon.blasted
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.cyancanyon.blasted
+INFO:__main__:Clicking the second Buy button for com.cyancanyon.blasted
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.cyancanyon.blasted
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.delitestudio.filetransfer
+INFO:__main__:Clicking the first Buy button for com.delitestudio.filetransfer
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.delitestudio.filetransfer
+INFO:__main__:Clicking the second Buy button for com.delitestudio.filetransfer
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.delitestudio.filetransfer
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.devdnua.equalizer
+INFO:__main__:Clicking the first Buy button for com.devdnua.equalizer
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.devdnua.equalizer
+INFO:__main__:Clicking the second Buy button for com.devdnua.equalizer
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.devdnua.equalizer
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.digidust.elokence.akinator.paid
+INFO:__main__:Clicking the first Buy button for com.digidust.elokence.akinator.paid
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.digidust.elokence.akinator.paid
+INFO:__main__:Clicking the second Buy button for com.digidust.elokence.akinator.paid
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.digidust.elokence.akinator.paid
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Cooling down for 120 seconds
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff4c6670390>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/077cd385-4ecd-40e5-a800-8d30cf2a8c43
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff4c66709b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/077cd385-4ecd-40e5-a800-8d30cf2a8c43
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff4c6670c88>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/077cd385-4ecd-40e5-a800-8d30cf2a8c43
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/shutil.py", line 423, in _rmtree_safe_fd
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/shutil.py", line 423, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/shutil.py", line 423, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/shutil.py", line 401, in _rmtree_safe_fd
+    entries = list(scandir_it)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "autobuy.py", line 122, in <module>
+  File "autobuy.py", line 111, in _buy
+    driver.close()
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 170, in __exit__
+    self.quit()
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/firefox/webdriver.py", line 215, in quit
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/shutil.py", line 485, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/shutil.py", line 423, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/shutil.py", line 423, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/shutil.py", line 423, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/shutil.py", line 438, in _rmtree_safe_fd
+    os.close(dirfd)
+KeyboardInterrupt
