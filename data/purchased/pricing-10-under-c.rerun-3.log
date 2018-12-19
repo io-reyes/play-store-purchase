@@ -1,0 +1,209 @@
+INFO:__main__:Parsing paid list file data/pricing-10-under-c.rerun-3.csv
+INFO:__main__:['com.z299studio.pb', 'pic.puzzle.picturepuzzle', 'ru.gonorovsky.kv.livewall.earthhddon', 'com.webclap.sweetstyle.sweetIconChange_strawberrybox_paid', 'tatik.pexe_puzzle', 'com.guizard.application', 'com.timegalore.magicbattle', 'com.adidiego.lasfinge', 'com.binzin.playerunlocker', 'com.res.restuarantapp', 'chemasalamanca.Valentines_live_wallpaper', 'com.ticogroup.gocodeindia', 'com.lanius.kenoma.pob', 'teddydroid.app.loa.pro', 'nimeproject.vr.vrskiing', 'jp.ne.honmaitlabo.android.nicknamephone']
+INFO:__main__:Read 16 lines
+INFO:__main__:Using geckodriver /home/ioreyes/Programming/auto-buy/geckodriver/geckodriver-linux64
+INFO:__main__:Using profile /tmp/tmpl1msw8c0/webdriver-py-profilecopy
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.z299studio.pb
+INFO:__main__:Clicking the first Buy button for com.z299studio.pb
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.z299studio.pb
+INFO:__main__:Clicking the second Buy button for com.z299studio.pb
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.z299studio.pb
+Traceback (most recent call last):
+  File "autobuy.py", line 90, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=pic.puzzle.picturepuzzle
+INFO:__main__:Clicking the first Buy button for pic.puzzle.picturepuzzle
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for pic.puzzle.picturepuzzle
+INFO:__main__:Clicking the second Buy button for pic.puzzle.picturepuzzle
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased pic.puzzle.picturepuzzle
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=ru.gonorovsky.kv.livewall.earthhddon
+ERROR:__main__:Exception buying ru.gonorovsky.kv.livewall.earthhddon
+Traceback (most recent call last):
+  File "autobuy.py", line 64, in _buy
+    buy_button = driver.find_element_by_xpath("//button[contains(@aria-label, 'Buy')]")
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: //button[contains(@aria-label, 'Buy')]
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.webclap.sweetstyle.sweetIconChange_strawberrybox_paid
+ERROR:__main__:Exception buying com.webclap.sweetstyle.sweetIconChange_strawberrybox_paid
+Traceback (most recent call last):
+  File "autobuy.py", line 64, in _buy
+    buy_button = driver.find_element_by_xpath("//button[contains(@aria-label, 'Buy')]")
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: //button[contains(@aria-label, 'Buy')]
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=tatik.pexe_puzzle
+INFO:__main__:Clicking the first Buy button for tatik.pexe_puzzle
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for tatik.pexe_puzzle
+INFO:__main__:Clicking the second Buy button for tatik.pexe_puzzle
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased tatik.pexe_puzzle
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.guizard.application
+INFO:__main__:Clicking the first Buy button for com.guizard.application
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.guizard.application
+INFO:__main__:Clicking the second Buy button for com.guizard.application
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.guizard.application
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.timegalore.magicbattle
+INFO:__main__:Clicking the first Buy button for com.timegalore.magicbattle
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.timegalore.magicbattle
+INFO:__main__:Clicking the second Buy button for com.timegalore.magicbattle
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.timegalore.magicbattle
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.adidiego.lasfinge
+INFO:__main__:Clicking the first Buy button for com.adidiego.lasfinge
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.adidiego.lasfinge
+INFO:__main__:Clicking the second Buy button for com.adidiego.lasfinge
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.adidiego.lasfinge
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.binzin.playerunlocker
+INFO:__main__:Clicking the first Buy button for com.binzin.playerunlocker
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.binzin.playerunlocker
+INFO:__main__:Clicking the second Buy button for com.binzin.playerunlocker
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.binzin.playerunlocker
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.res.restuarantapp
+INFO:__main__:Clicking the first Buy button for com.res.restuarantapp
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.res.restuarantapp
+INFO:__main__:Clicking the second Buy button for com.res.restuarantapp
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.res.restuarantapp
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=chemasalamanca.Valentines_live_wallpaper
+INFO:__main__:Clicking the first Buy button for chemasalamanca.Valentines_live_wallpaper
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for chemasalamanca.Valentines_live_wallpaper
+INFO:__main__:Clicking the second Buy button for chemasalamanca.Valentines_live_wallpaper
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased chemasalamanca.Valentines_live_wallpaper
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.ticogroup.gocodeindia
+INFO:__main__:Clicking the first Buy button for com.ticogroup.gocodeindia
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.ticogroup.gocodeindia
+INFO:__main__:Clicking the second Buy button for com.ticogroup.gocodeindia
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.ticogroup.gocodeindia
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=com.lanius.kenoma.pob
+INFO:__main__:Clicking the first Buy button for com.lanius.kenoma.pob
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.lanius.kenoma.pob
+INFO:__main__:Clicking the second Buy button for com.lanius.kenoma.pob
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.lanius.kenoma.pob
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=teddydroid.app.loa.pro
+INFO:__main__:Clicking the first Buy button for teddydroid.app.loa.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for teddydroid.app.loa.pro
+INFO:__main__:Clicking the second Buy button for teddydroid.app.loa.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased teddydroid.app.loa.pro
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=nimeproject.vr.vrskiing
+INFO:__main__:Clicking the first Buy button for nimeproject.vr.vrskiing
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for nimeproject.vr.vrskiing
+INFO:__main__:Clicking the second Buy button for nimeproject.vr.vrskiing
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased nimeproject.vr.vrskiing
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Loading https://play.google.com/store/apps/details?id=jp.ne.honmaitlabo.android.nicknamephone
+INFO:__main__:Clicking the first Buy button for jp.ne.honmaitlabo.android.nicknamephone
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for jp.ne.honmaitlabo.android.nicknamephone
+INFO:__main__:Clicking the second Buy button for jp.ne.honmaitlabo.android.nicknamephone
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased jp.ne.honmaitlabo.android.nicknamephone
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
