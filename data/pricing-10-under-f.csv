@@ -1,10 +1,11 @@
+com.buffstudio.onthehero
+com.RexetStudio.TibersBox2
+com.RockingPocketGames.iFishingFly
 com.berkeleystreetcleaning.pro
 com.mancwebdesign.colourviewer.pro
 com.mnocompany.awall
 com.nostalgiaemulators.gbcfull
 com.onetext.thompson
-com.RexetStudio.TibersBox2
-com.RockingPocketGames.iFishingFly
 com.savee.battery.saver
 com.semapplications.speedometerfull
 com.skycode.atrance.deit
@@ -21,12 +22,12 @@ de.hms.xconstructionfull
 de.topobyte.apps.offline.stadtplan.stuttgart
 de.zorillasoft.musicfolderplayer.donate
 eu.foxjunior.simplecleanwatchface
+mem.rivex
 ig.Indice_pro
 jp.ogawa.hideki.driveinfo
 jp.pascal.fishing
 kunalksj.christmastime
 me.manabreak.bandit.paid
-mem.rivex
 nikisoft.apps.shiftsmanager
 officeeyessaver.com
 org.palmsoft.komponistpro
@@ -61,7 +62,6 @@ com.leen.wallpaper.misteriousisland
 com.uppbridge.vrstarelude
 name.okuhara.boobyreversi.full
 it.ondaerre.tria_ebook.cicerone1
-yo.app
 com.lobolopez.mybikelog
 de.amberhome.weather2
 jp.co.nihon_e.kidsrestaurant
@@ -168,7 +168,6 @@ com.lizanityfull
 com.logan19gp.loterrygenerator
 com.lonedwarfgames.tankrecon2paid
 com.loveapps.bingo_paid_app
-com.maalaimalar.mmcalender2018
 com.matungos.sshing.donate
 com.merciari.tombolaelettronica
 com.mgh.android.rw.elem.grammarwonderland
@@ -181,6 +180,7 @@ com.microids.HdOv25.HdOTreasureIsland.full
 com.microids.HdOv25.HdOVampire.full
 com.microids.HdOv3.HdOLesMiserables.full
 com.microids.HdOv3.HdOLesMiserables2.full
+com.maalaimalar.mmcalender2018
 com.movinapp.dict.denl
 com.musicagames.dosolfa
 com.natewren.linesdark
@@ -217,7 +217,6 @@ com.schimera.webdavnav
 com.seekpi.drawthisdothat
 com.sens.whisttinnitus
 com.seyeonsoft.neobookmark
-com.shadowinkdesigns.cryptozoology
 com.shaun.emojilite_pro
 com.shelter_droid.shelter
 com.silverteam.shottimer200
@@ -252,6 +251,7 @@ com.xaleragames.connectdrawpro
 com.xuecs.sqlitemanagerpro
 com.yellowdroid.toddlerwordspro
 com.zinkia.pocoyoclassic
+com.shadowinkdesigns.cryptozoology
 cy6DfJVkoq4EGj7CZk3M.sandy
 de.development.outline.marblemonster
 de.miwi.personalcalendar
@@ -279,6 +279,7 @@ net.xenotropic.quizznworldhist
 nils.slideshow5000_pro
 nl.hqmedia.quitsmokingbuddy
 noblur.com.learncountingnumbers
+toyotascantool.lexusobd2.elm327.obd2.toyotaelm327.toyotasysscan.obdhightech.com.toyotasysscanpro
 org.artica.muu.igarafu
 org.breezesoft.techoplus
 org.freeandroidtools.root_checker_pro
@@ -290,7 +291,6 @@ seer.computing.mysqlfunctions
 siddur.sfaradi.pay
 smpxg.crystallight
 smpxg.jewelxmas
-toyotascantool.lexusobd2.elm327.obd2.toyotaelm327.toyotasysscan.obdhightech.com.toyotasysscanpro
 tw.com.bluemoon.baseboard
 uk.co.aifactory.ginrummy
 uk.co.aifactory.gomoku
@@ -303,13 +303,13 @@ vn.creativeapps.abworkout.pro
 vn.creativeapps.pro.plank
 vn.creativeapps.sexybutt.pro
 zzs.notisysinfo.pro
+com.RONAK.theme.Icephonewhite
 com.blogspot.maxim_sheronov.sinus_live_wallpaper.pro
 com.ebzits.learningburmese
 com.jalsalabs.ticklemyphonefull
 com.mindplanet.android.litelog
 com.oruamsoft.megasena
 com.oruamsoft.quina
-com.RONAK.theme.Icephonewhite
 com.sc2toolslab.sc2bmfull
 jp.gr.java_conf.myoshii.android.soundrecc
 at.ncn.antiviruspro2015
@@ -329,6 +329,7 @@ appinventor.ai_fernando_ivan.como_esta_bebe
 au.com.phil.abduction2
 br.com.tibiadroid
 clock3.GBB.org
+com.JC.time_clock
 com.afterhours.android.afterhours.full
 com.alex.meditation
 com.alex.pictures
@@ -343,19 +344,18 @@ com.essential.usdriving.pro
 com.glm.trainer
 com.ispsoft.tplinkinstallerfull
 com.james.ipholder
-com.JC.time_clock
 com.kedronic.memfruits
 com.kvss.sd
-com.laxitymedia.DirtRace
 com.laxitymedia.DriftRace.full
+com.laxitymedia.DirtRace
 com.laxitymedia.emojisrescue.full
+com.orangepixel.meganoid
 com.movaudio.ecomposer
 com.movinapp.dict.deit
 com.movinapp.dict.detr
 com.movinapp.dict.frnl
 com.netpixel.showmygoal
 com.noppoland.android.wazatimerpro
-com.orangepixel.meganoid
 com.overpass.dutchbubblebath
 com.overpass.hungarianbubblebath
 com.overpass.somalibubblebath
@@ -375,14 +375,14 @@ com.zinkia.pocoyo.colors
 com.zinkia.pocoyo.numbers
 de.jws.puzzlefull
 es.vcode.musepad
-it.ncaferra.pixelplayerpaid
-jp.abt.lopnur.gearratiocalc
-jp.favorite.calculator.calzo
-jp.ne.asoft.android.uchorda
 langame_es.rivex
 langame_fr.rivex
 langame_pl.rivex
 langame_pt.rivex
+it.ncaferra.pixelplayerpaid
+jp.abt.lopnur.gearratiocalc
+jp.favorite.calculator.calzo
+jp.ne.asoft.android.uchorda
 net.zsoo.android.dma
 nf.co.gefilter.simulado_oab
 org.benditas.aagoyorubafull
@@ -411,6 +411,7 @@ com.rideon.sakaba_eng
 com.sympleza.enesdictionarypremium
 com.sympleza.enitdictionarypremium
 com.sympleza.enswdictionarypremium
+yo.app
 air.com.bloomingkids.DailyRoutineMatrix
 air.com.rotorzone.rotorbalance
 air.mobi.kidsacademy.gp.five.monkeys.hd
@@ -421,18 +422,16 @@ b4a.bigemail
 b4a.ecgrra
 b4a.zephyrpro
 br.com.chronoanalyzerpro
-bt_control_pro.loedu.de.bluetoothcontrolpro
 by.squareroot.kakuro.full
 com.absolutist.foolcity
 com.allinone.calculator
-com.anahoret.android.shapes
 com.appventions.atlas
 com.autel.pro.spanish
 com.autolauncher.motorcar
 com.azbooks.meekamoo.eng.full
 com.babbab_full
-com.babysignandlearn.babysign
 com.babysignandlearn.babysignandsing
+com.babysignandlearn.babysign
 com.bens.apps.ChampCalc.pro
 com.bernware.ucvr
 com.best.self.learning.apps.financial.accounting.test.bank
@@ -448,7 +447,6 @@ com.bigfishgames.mcffcgoogfull
 com.brainium.freecell
 com.brainium.solitaire
 com.brochos.tizkor.sefira.full
-com.buffstudio.onthehero
 com.clbsystems.bombcodedefuser.paid
 com.crazelle.app.todo
 com.deltaphi.drumate
@@ -461,6 +459,7 @@ com.eggrollgames.animalmathgrade2paid
 com.eggrollgames.askmecolorsshapes
 com.eggrollgames.characterpuzzlefarmpaid
 com.elky.likekids.it
+com.usa.evprecording.console
 com.firerabbit.games.overlive.unlocked
 com.fyinc.multitimer
 com.galakau.veloxfull
@@ -472,6 +471,7 @@ com.herocraft.game.footlol
 com.hg.dfwg
 com.hg.dynamitefishing
 com.hg.ninjaherocats
+pro.holy.bible.king.james
 com.hssn.anatomy3d
 com.idans.slowmo
 com.imayi.dinodigger2
@@ -485,7 +485,6 @@ com.lambtongames.videopokerclassic
 com.lescapadou.picturespelling
 com.magicwach.rdefense
 com.manoj.manojprabahar.mangata
-com.medicalgroupsoft.medical.chemistryterminology.paid
 com.medicalgroupsoft.medical.diseasesmkb.ger.paid
 com.medicalgroupsoft.medical.drugsdictionary.paid
 com.mike.virtualtrainer.pro
@@ -498,6 +497,7 @@ com.nevosoft.million
 com.nevosoft.mushroomage
 com.nevosoft.wonderlines
 com.nightboost.kids.animals
+com.nippt.amharicdictionary
 com.noaa_weather.noaaweather
 com.officephone.paid
 com.omgpop.dstpaid
@@ -522,6 +522,7 @@ com.sitseducators.javaprogrammingfacts
 com.slimcricket.petitesorciere
 com.slimcricket.pipo
 com.slimcricket.sorcieresansnom
+com.medicalgroupsoft.medical.chemistryterminology.paid
 com.softech.allbright.ANCC_Pro
 com.softmedia.receiver
 com.ssafitness.weightlossexercises
@@ -538,7 +539,6 @@ com.topoflearning.best.vibering.registred.nurse.practitioner.np.arnp.exam
 com.topoflearning.best.vibering.series7.finance.course.exam.review
 com.twistago.android
 com.upshft.upshiftprime
-com.usa.evprecording.console
 com.veitch.themelodymaster.pmp
 com.vinhashapp.wifiportable.freewifihotspot
 com.voiceplus
@@ -552,8 +552,10 @@ com.xoopsoft.apps.footballplus.portugal.pro
 com.xoopsoft.apps.segundaligapro
 com.xoopsoft.apps.superligpro
 com.zmileyapps.speedhack
+bt_control_pro.loedu.de.bluetoothcontrolpro
 de.wgr.vcapppremium34
 dk.mochasoft.mochaping
+reddit.news
 gr.mobile.freemeteo.premium
 imoblife.memorybooster.full
 ipnossoft.rma.premium
@@ -563,10 +565,9 @@ live.full.photo.gps
 no.henrikvs.trackloc
 org.shlublu.android.netmonitor
 pl.jumpapp.superhero.coloringbook.full
-pro.holy.bible.king.james
-reddit.news
 tw.idv.max.tarot
 wms.xoom2mespeakersfix
+com.anahoret.android.shapes
 com.familygtg.app
 com.fillinappenpro
 com.mik61.catsoftheworldpremium
@@ -620,9 +621,9 @@ com.agentpp.android
 ru.knnv.geometrycalc
 cf.i_ya.chronograph
 com.cognitial.directvremotepro
+air.com.kglad.SpellingBug1stGradeWords
 air.com.besta.englishnurseryrhymespro
 air.com.bloomingkids.SubtractionUsingNumberLine
-air.com.kglad.SpellingBug1stGradeWords
 air.com.wegolf.gps
 allen.carr
 com.astro.dsoplannerbasic
@@ -632,6 +633,7 @@ com.bytebolt.drumloops
 com.cgollner.systemmonitor
 com.digit.pmpexam
 com.eslgamesplus.kinder2
+com.sisow.hcvg.healthydiningguide
 com.jakyl.ssc
 com.kevinbradford.games.secondgrade
 com.kiwiwalks.witchspringlunaml
@@ -643,7 +645,6 @@ com.mobi.android.quiz.bartenderquiz
 com.mykhailovdovchenko.wfdca
 com.neaststudios.procapture
 com.neaststudios.superpano
-com.nippt.amharicdictionary
 com.nippt.kjv.bible
 com.nippt.santa.bible
 com.nippt.somalidictionary.pro
@@ -654,7 +655,6 @@ com.proactiveapp.womanlogbaby.pro
 com.ratrodstudio.skateparty2
 com.ratrodstudio.streetoutlaws
 com.realbyteapps.moneya
-com.sisow.hcvg.healthydiningguide
 com.softcraft.vocabularybible
 com.softmimo.android.calltimetracker
 com.storytoys.Chuggington.Book1.Paid.GooglePlay
@@ -669,9 +669,9 @@ com.whirlscape.minuumkeyboard
 com.wisdomlabs.vaccinationguidepro
 com.wordpress.wisdomlab.antibiotictherapy
 de.inforapid.knowledgebasebuilder.android
+kemco.wws.eofa
 hwhzl.hlth.trk
 ipcamsoft.com.ipcam
-kemco.wws.eofa
 paystub.paycheck.payroll.calculator.fullversion.pro
 com.algorizk.windtunnel
 com.papenmeier.wifibabymonitor
@@ -685,6 +685,7 @@ com.dna.lyricpad2.full
 com.ferretking.sexdicepro
 com.hydraulicpumps
 com.kedronic.cbnanimals
+com.mixvibes.crossdjapp
 com.onjara.weatherforecastuk
 com.smartprojects.RAMOptimization
 com.trans_code.android.droidscan
@@ -698,6 +699,7 @@ dk.mochasoft.telnet
 com.qlapps.plinvoice
 air.com.essig.spielplatzhd3
 air.com.youdagames.gop2mobile
+com.MpFish.Knots
 com.adrionics.android.adbmaster.installer
 com.aliasworlds.kingdomchronicles.hd.full.google
 com.arconyx.rosaryHDpremium
@@ -714,9 +716,9 @@ com.cloudworth.sicily
 com.danielviktorin.tramtycoon
 com.datawaregames.coloringbook23
 com.datawaregames.coloringbook27
-com.datawaregames.stickerbook
 com.datawaregames.stickerbook3
 com.datawaregames.stickerbook4
+com.datawaregames.stickerbook
 com.dayglows.vivid.full
 com.desertstormfront.android.full
 com.fastemulator.gba
@@ -726,12 +728,12 @@ com.ideeo.inadvanced
 com.innovativelanguage.wordpower.russian
 com.khymaera.android.listnote
 com.knbmedia.findthemalldino
+com.stockmusicboutique.basscat
 com.metalanguage.learndanish
 com.metalanguage.learngerman
 com.metalanguage.learngreek
 com.metalanguage.learnhindi
 com.metalanguage.learnitalian
-com.MpFish.Knots
 com.phanotek.xtremesoaring3d2
 com.phanovatives.gunshipIII.vpaf
 com.planeth.gstflphedminferno1
@@ -747,7 +749,6 @@ com.sg.ranaz.foodwaste
 com.shredtraining.guitarmageddonpro
 com.soundgraph.remoteplus.pro
 com.stock2own.stockvalueanalyzerpro
-com.stockmusicboutique.basscat
 com.taptapstudio.dailyscripture
 com.taptapstudio.dailystreams
 com.taptapstudio.dailyword
@@ -823,7 +824,6 @@ com.mindboardapps.app.mbstd
 montessori.cards.educational.games.for.toddlers.pro
 com.droidcaddie.droidcaddie
 bitsie.playmee.musicplayer.pro
-com.mixvibes.crossdjapp
 lrstudios.games.ego
 com.flyingbusstudio.dreamingclock
 de.snorek.freeapp.full
@@ -841,8 +841,8 @@ com.cambridgeuseofenglish.fce
 com.criticalthinking.mindbenders1
 com.infomir.stalkertv
 com.innovativelanguage.wordpower.chinesetraditional
-com.innovativelanguage.wordpower.englishuk
 com.innovativelanguage.wordpower.englishus
+com.innovativelanguage.wordpower.englishuk
 com.innovativelanguage.wordpower.french
 com.innovativelanguage.wordpower.indonesian
 com.innovativelanguage.wordpower.korean
