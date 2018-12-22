@@ -32,7 +32,7 @@ def _parse_paid_list(paid_file):
     logger.info('Read %d lines' % len(paid_list))
     return paid_list
 
-def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30, cooldown_every=25, cooldown_seconds=120):
+def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30, cooldown_every=25, cooldown_seconds=30):
     geckodriver = os.path.join(my_dir, 'geckodriver', 'geckodriver-linux64')
     logger.info('Using geckodriver %s' % geckodriver)
 
@@ -41,6 +41,7 @@ def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30,
 
     with webdriver.Firefox(executable_path=geckodriver, firefox_profile=profile) as driver:
         app_counter = 0
+        total_apps =len(paid_list)
         for app in paid_list:
             # Check for timeout
             app_counter = app_counter + 1
@@ -49,7 +50,7 @@ def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30,
                 time.sleep(cooldown_seconds)
 
             play_store_page = 'https://play.google.com/store/apps/details?id=%s' % app
-            logger.info('Loading %s' % play_store_page)
+            logger.info('App %d/%d: loading %s' % (app_counter, total_apps, play_store_page))
             driver.get(play_store_page)
 
             is_purchased = False
@@ -108,6 +109,7 @@ def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30,
             else:
                 logger.info('%s has already been purchased, skipping' % app)
 
+        logger.info('Closing the driver')
         driver.close()
 
 if __name__ == '__main__':

@@ -1,0 +1,59 @@
+INFO:__main__:Parsing paid list file data/pricing-10-under-f.rerun-1.csv
+INFO:__main__:['com.berkeleystreetcleaning.pro', 'com.clockworkpixels.vampireventures', 'com.codesector.speedview.pro', 'com.mgh.android.rw.elem.grammarwonderland']
+INFO:__main__:Read 4 lines
+INFO:__main__:Using geckodriver /home/ioreyes/Programming/auto-buy/geckodriver/geckodriver-linux64
+INFO:__main__:Using profile /tmp/tmpsomknnot/webdriver-py-profilecopy
+INFO:__main__:App 1/4: loading https://play.google.com/store/apps/details?id=com.berkeleystreetcleaning.pro
+INFO:__main__:Clicking the first Buy button for com.berkeleystreetcleaning.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.berkeleystreetcleaning.pro
+INFO:__main__:Clicking the second Buy button for com.berkeleystreetcleaning.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+ERROR:__main__:Exception buying com.berkeleystreetcleaning.pro
+Traceback (most recent call last):
+  File "autobuy.py", line 91, in _buy
+    confirm_box = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//div[@class='purchase-confirm-message']")))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:App 2/4: loading https://play.google.com/store/apps/details?id=com.clockworkpixels.vampireventures
+INFO:__main__:Clicking the first Buy button for com.clockworkpixels.vampireventures
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.clockworkpixels.vampireventures
+INFO:__main__:Clicking the second Buy button for com.clockworkpixels.vampireventures
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.clockworkpixels.vampireventures
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:App 3/4: loading https://play.google.com/store/apps/details?id=com.codesector.speedview.pro
+INFO:__main__:Clicking the first Buy button for com.codesector.speedview.pro
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.codesector.speedview.pro
+INFO:__main__:Clicking the second Buy button for com.codesector.speedview.pro
+INFO:__main__:Entering the password
+INFO:__main__:Found the purchasing iframe again
+INFO:__main__:Found the purchase confirmation
+INFO:__main__:Found the close purchase button
+INFO:__main__:Successfully purchased com.codesector.speedview.pro
+INFO:__main__:Sleeping for 5 seconds after successful purchase
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:App 4/4: loading https://play.google.com/store/apps/details?id=com.mgh.android.rw.elem.grammarwonderland
+INFO:__main__:Clicking the first Buy button for com.mgh.android.rw.elem.grammarwonderland
+INFO:__main__:Found the purchasing iframe
+INFO:__main__:Clicking the Continue button for com.mgh.android.rw.elem.grammarwonderland
+ERROR:__main__:Exception buying com.mgh.android.rw.elem.grammarwonderland
+Traceback (most recent call last):
+  File "autobuy.py", line 77, in _buy
+    buy_button_2 = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.ID, 'loonie-purchase-ok-button')))
+  File "/home/ioreyes/Programming/auto-buy/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO:__main__:Resetting the driver frame to default
+INFO:__main__:Closing the driver
