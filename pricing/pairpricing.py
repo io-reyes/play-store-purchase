@@ -30,7 +30,15 @@ class PairPricing:
         if(self.is_available()):
             return '%s,%s,%f' % (self.free, self.paid, self.get_price())
         else:
-            return '%s,%s,UNAVAILABLE' % (self.free, self.paid)
+            status = None
+            if(self.free_details is not None):
+                status = 'PAID_UNAVAILABLE'
+            elif(self.paid_details is not None):
+                status = 'FREE_UNAVAILABLE'
+            else:
+                status = 'BOTH_UNAVAILABLE'
+
+            return '%s,%s,%s' % (self.free, self.paid, status)
 
     @staticmethod
     def _scrape_play_store(app):
