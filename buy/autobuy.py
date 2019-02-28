@@ -18,6 +18,7 @@ def _parse_args():
     parser.add_argument('profile', help='Path to Firefox profile already logged into the purchasing account')
     parser.add_argument('password', help='Password for the purchasing account')
     parser.add_argument('--verbose', action='store_true', help='Enable verbose logging')
+    parser.add_argument('--purchase-log', metavar='FILE', help='Save purchase status to this file')
 
     return parser.parse_args()
 
@@ -32,7 +33,12 @@ def _parse_paid_list(paid_file):
     logger.info('Read %d lines' % len(paid_list))
     return paid_list
 
-def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30, cooldown_every=25, cooldown_seconds=30):
+def _log_purchase(purchase_log, app, status):
+    if(purchase_log is not None):
+        with open(purchase_log, 'a') as p_log:
+            p_log.write('%s,%s' % (app, status))
+
+def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30, cooldown_every=25, cooldown_seconds=30, purchase_log=None):
     geckodriver = os.path.join(my_dir, 'geckodriver', 'geckodriver-linux64')
     logger.info('Using geckodriver %s' % geckodriver)
 
@@ -82,6 +88,7 @@ def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30,
                     password_field = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//input[@type='password' and @aria-label='Enter your password']"))) 
                     logger.info('Entering the password')
                     password_field.send_keys(password)
+                    time.sleep(1)
                     password_field.send_keys(Keys.ENTER)
 
                     purchase_iframe_2 = WebDriverWait(driver, action_timeout).until(expected_conditions.visibility_of_element_located((By.XPATH, "//iframe[starts-with(@src, 'https://play.google.com/store/epurchase')]")))
@@ -96,18 +103,21 @@ def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30,
                     close_button.click()
 
                     logger.info('Successfully purchased %s' % app)
+                    _log_purchase(purchase_log, app, 'NEWLY_PURCHASED')
 
                     logger.info('Sleeping for %d seconds after successful purchase' % seconds_between)
                     time.sleep(seconds_between)
 
                 except Exception as e:
                     logger.exception('Exception buying %s' % app)
+                    _log_purchase(purchase_log, app, 'EXCEPTION')
 
                 finally:
                     logger.info('Resetting the driver frame to default')
                     driver.switch_to.default_content()
             else:
                 logger.info('%s has already been purchased, skipping' % app)
+                _log_purchase(purchase_log, app, 'ALREADY_PURCHASED')
 
         logger.info('Closing the driver')
         driver.close()
