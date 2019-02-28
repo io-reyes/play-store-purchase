@@ -131,5 +131,5 @@ if __name__ == '__main__':
         logging.basicConfig()
 
     paid_list = _parse_paid_list(args.paidlist)
-    _buy(paid_list, args.profile, args.password)
+    _buy(paid_list, args.profile, args.password, purchase_log=args.purchase_log)
 
