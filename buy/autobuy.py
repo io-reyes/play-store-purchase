@@ -36,7 +36,7 @@ def _parse_paid_list(paid_file):
 def _log_purchase(purchase_log, app, status):
     if(purchase_log is not None):
         with open(purchase_log, 'a') as p_log:
-            p_log.write('%s,%s' % (app, status))
+            p_log.write('%s,%s\n' % (app, status))
 
 def _buy(paid_list, profile_dir, password, seconds_between=5, action_timeout=30, cooldown_every=25, cooldown_seconds=30, purchase_log=None):
     geckodriver = os.path.join(my_dir, 'geckodriver', 'geckodriver-linux64')
